@@ -1,0 +1,631 @@
+From vfiack at mail15.com  Mon Nov  1 22:34:47 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Mon, 01 Nov 2004 22:34:47 +0100
+Subject: [Lucane-translations] forumadmin web messages
+Message-ID: <4186ABF7.6050205@mail15.com>
+
+Hello,
+
+I've finished the web interface for forum admin (except the ACL part)
+Here are the few added messages :
+
+# web app
+web.label.forumList = Forum list
+web.label.addForum = Add a forum
+err.forumNameNeeded = A forum name is needed.
+
+Thanks,
+Vincent.
+
+BTW, did you see the other messages ? I'm lacking a lot of translations, 
+and I'd like to release a new beta soon.
+Could you check them if you have some time ?
+
+
+From carsten.schaefer at ttc-informatik.de  Mon Nov  1 22:38:10 2004
+From: carsten.schaefer at ttc-informatik.de (=?iso-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Mon, 1 Nov 2004 22:38:10 +0100
+Subject: [Lucane-translations] forumadmin web messages
+References: <4186ABF7.6050205@mail15.com>
+Message-ID: <000601c4c05b$18d585a0$0200a8c0@zander>
+
+web.label.forumList = Forum Liste
+web.label.addForum = Forum hinzuf?gen
+err.forumNameNeeded = Bitte einen Forum-Namen eingeben.
+
+
+Vincent Fiack wrote:
+> Hello,
+>
+> I've finished the web interface for forum admin (except the ACL part)
+> Here are the few added messages :
+>
+> # web app
+> web.label.forumList = Forum list
+> web.label.addForum = Add a forum
+> err.forumNameNeeded = A forum name is needed.
+>
+
+
+
+
+From carsten.schaefer at ttc-informatik.de  Mon Nov  1 22:39:05 2004
+From: carsten.schaefer at ttc-informatik.de (=?iso-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Mon, 1 Nov 2004 22:39:05 +0100
+Subject: [Lucane-translations] calendar: editable events
+References: <417414D3.2050008@mail15.com>
+Message-ID: <001501c4c05b$38d58210$0200a8c0@zander>
+
+German:
+event.editable = Editierbar
+
+Vincent Fiack wrote:
+> Hello,
+> 
+> I added a way to allow attendees to change the date of an event if
+> this one is "editable".
+> Here is the label needed on the event creation window :
+> 
+> event.editable = Editable
+> 
+
+
+
+
+From vfiack at gmail.com  Mon Nov  1 22:40:56 2004
+From: vfiack at gmail.com (Vincent Fiack)
+Date: Mon, 1 Nov 2004 22:40:56 +0100
+Subject: [Lucane-translations] forumadmin web messages
+In-Reply-To: <000601c4c05b$18d585a0$0200a8c0@zander>
+References: <4186ABF7.6050205@mail15.com>
+	 <000601c4c05b$18d585a0$0200a8c0@zander>
+Message-ID: <b8c61c2104110113404c82fa54@mail.gmail.com>
+
+On Mon, 1 Nov 2004 22:38:10 +0100, Carsten Sch?fer
+<carsten.schaefer at ttc-informatik.de> wrote:
+> web.label.forumList = Forum Liste
+> web.label.addForum = Forum hinzuf?gen
+> err.forumNameNeeded = Bitte einen Forum-Namen eingeben.
+
+Wow, that was fast !
+Thanks :)
+
+
+From carsten.schaefer at ttc-informatik.de  Mon Nov  1 22:40:53 2004
+From: carsten.schaefer at ttc-informatik.de (=?iso-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Mon, 1 Nov 2004 22:40:53 +0100
+Subject: [Lucane-translations] calendar: look for free time
+References: <b8c61c210410290932ccacdcf@mail.gmail.com>
+Message-ID: <001e01c4c05b$79e56450$0200a8c0@zander>
+
+German:
+
+btn.findFreeTime = Suche nach freiem Platz
+err.unableToGetEventsForUser = Fehler beim Lesen der Termine f?r Benutzer:
+dialog.findFreeTime =  Suche nach freiem Platz
+
+Vincent Fiack wrote:
+> Hello,
+>
+> I've added a little dialog box to compare user calendars when editing
+> an event. Here are the needed messages :
+>
+> btn.findFreeTime = Find free time
+> err.unableToGetEventsForUser = Unable to get events for user :
+> dialog.findFreeTime = Find free time
+
+
+
+
+From carsten.schaefer at ttc-informatik.de  Mon Nov  1 22:50:58 2004
+From: carsten.schaefer at ttc-informatik.de (=?iso-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Mon, 1 Nov 2004 22:50:58 +0100
+Subject: [Lucane-translations] Forum: web application
+References: <417AE12A.2010801@mail15.com>
+Message-ID: <001f01c4c05c$e346f8e0$0200a8c0@zander>
+
+German:
+# web application
+web.label.newMessage = Neue Nachricht
+web.label.replyToMessage = Auf Nachricht antworten :
+web.label.editingMessage = Nachricht bearbeiten :
+web.message.postedBy = Geschrieben von %1 am %2
+web.link.backToMessageList = Zur?ck zur Nachrichten-Liste
+web.label.forumList = Verf?gbare Foren :
+web.label.title = Titel
+web.label.author = Autor
+web.label.date = Datum
+web.message.messagePosted = Nachricht geschrieben
+web.message.messageEdited = Nachricht bearbeitet
+web.message.messageDeleted = Nachricht gel?scht
+web.message.messageUndeleted = Nachricht wiederhergestellt
+
+
+
+Vincent Fiack wrote:
+> Hello,
+>
+> I've almost finished the web application for the forum.
+> Here are the added messages :
+>
+> # web application
+> web.label.newMessage = New message
+> web.label.replyToMessage = Reply to message :
+> web.label.editingMessage = Editing message :
+> web.message.postedBy = Posted by %1 on %2
+> web.link.backToMessageList = Back to message list
+> web.label.forumList = Available forums :
+> web.label.title = Title
+> web.label.author = Author
+> web.label.date = Date
+> web.message.messagePosted = Message posted
+> web.message.messageEdited = Message edited
+> web.message.messageDeleted = Message deleted
+> web.message.messageUndeleted = Message undeleted
+>
+> ---
+> For web.message.postedBy = Posted by %1 on %2,
+> %1 is the author, %2 is the date.
+>
+> Thanks and have a nice day,
+> Vincent.
+> _______________________________________________
+> Lucane-translations mailing list
+> Lucane-translations at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/lucane-translations 
+
+
+
+
+From vfiack at gmail.com  Tue Nov  2 18:14:35 2004
+From: vfiack at gmail.com (Vincent Fiack)
+Date: Tue, 2 Nov 2004 18:14:35 +0100
+Subject: [Lucane-translations] calendar: freebusy dialog
+Message-ID: <b8c61c21041102091447f67faa@mail.gmail.com>
+
+Hello,
+
+It is now possible to change an event date from the Free/Busy dialog.
+Here are the needed messages :
+
+dialog.changeEventDate = Change event dates ?
+msg.changeEventDate = Do you want to change this event ?
+
+Thanks,
+Vincent.
+
+
+From carsten.schaefer at ttc-informatik.de  Tue Nov  2 18:18:26 2004
+From: carsten.schaefer at ttc-informatik.de (=?iso-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Tue, 2 Nov 2004 18:18:26 +0100
+Subject: [Lucane-translations] calendar: freebusy dialog
+References: <b8c61c21041102091447f67faa@mail.gmail.com>
+Message-ID: <000401c4c0ff$f7645e00$0b00a8c0@zander>
+
+Vincent Fiack wrote:
+> Hello,
+>
+> It is now possible to change an event date from the Free/Busy dialog.
+> Here are the needed messages :
+>
+> dialog.changeEventDate = Change event dates ?
+> msg.changeEventDate = Do you want to change this event ?
+>
+
+German
+
+dialog.changeEventDate = Termin ?ndern ?
+msg.changeEventDate = M?chten Sie diesen Termin ?ndern ?
+
+
+
+
+From vfiack at gmail.com  Wed Nov  3 22:59:49 2004
+From: vfiack at gmail.com (Vincent Fiack)
+Date: Wed, 3 Nov 2004 22:59:49 +0100
+Subject: [Lucane-translations] Application menu : new categories
+Message-ID: <b8c61c21041103135938846962@mail.gmail.com>
+
+Hello,
+
+In order to have a better application menu (no more submenus with one item, no
+more overcrawded 'misc' menu), I moved every application to new categories.
+To display them in the user language, I have to change the
+messages.properties files.
+
+Here are the new categories, with applications they are containing. I need the
+translation for each new categorie (not for the apps) :
+
+* Communications 
+(QuickMessage, Meeting, SendFile, AudioConf)
+
+* Graphics
+(Whiteboard, SlideShow)
+
+* Productivity
+(Notes, Todo Lists, Calendar, Shared Folder, Forum)
+
+* Tools
+(RSS Reader, JMail)
+
+* Help
+(About, Help Browser)
+
+
+A few one aren't changed so you don't need to translate them. However, i'll
+list them too :
+
+* Preferences
+(JMail Account, User Profile, Calendar (prefs), Password Changer)
+
+* Invisible
+(Reminder, QuickLaunch, MainInterface)
+
+* Administration
+(Administration, Kick Users, SMTP Server, JMail Admin, Forums,
+Shutdown server, SQL Navigator).
+
+
+Thank you very much,
+Vincent.
+
+
+From egeltje at mail.com  Wed Nov  3 23:04:04 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 03 Nov 2004 17:04:04 -0500
+Subject: [Lucane-translations] calendar: freebusy dialog
+Message-ID: <20041103220404.5DD921F50B1@ws1-2.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20041103/f515fbd3/attachment.html>
+
+From egeltje at mail.com  Wed Nov  3 23:09:08 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 03 Nov 2004 17:09:08 -0500
+Subject: [Lucane-translations] Application menu : new categories
+Message-ID: <20041103220908.63BBC1F50B3@ws1-2.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20041103/5e9831e2/attachment.html>
+
+From egeltje at mail.com  Wed Nov  3 23:12:23 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 03 Nov 2004 17:12:23 -0500
+Subject: [Lucane-translations] forumadmin web messages
+Message-ID: <20041103221225.01CDA1F50B1@ws1-2.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20041103/8e66a6db/attachment.html>
+
+From egeltje at mail.com  Wed Nov  3 23:15:32 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 03 Nov 2004 17:15:32 -0500
+Subject: [Lucane-translations] calendar: look for free time
+Message-ID: <20041103221532.A26D51F50B1@ws1-2.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20041103/2cd8d59b/attachment.html>
+
+From egeltje at mail.com  Wed Nov  3 23:20:35 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 03 Nov 2004 17:20:35 -0500
+Subject: [Lucane-translations] Forum: web application
+Message-ID: <20041103222035.7C3DF1F50B1@ws1-2.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20041103/079c7797/attachment.html>
+
+From egeltje at mail.com  Wed Nov  3 23:21:47 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 03 Nov 2004 17:21:47 -0500
+Subject: [Lucane-translations] calendar: editable events
+Message-ID: <20041103222147.6A9501F50B1@ws1-2.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20041103/17e78b09/attachment.html>
+
+From egeltje at mail.com  Wed Nov  3 23:27:22 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 03 Nov 2004 17:27:22 -0500
+Subject: [Lucane-translations] new app: slideshow
+Message-ID: <20041103222722.96B3D1F50B1@ws1-2.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20041103/79de5713/attachment.html>
+
+From egeltje at mail.com  Wed Nov  3 23:31:02 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 03 Nov 2004 17:31:02 -0500
+Subject: [Lucane-translations] calendar: default event types
+Message-ID: <20041103223102.30EF31CE304@ws1-6.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20041103/fd43e9ff/attachment.html>
+
+From carsten.schaefer at ttc-informatik.de  Thu Nov  4 08:22:34 2004
+From: carsten.schaefer at ttc-informatik.de (=?iso-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Thu, 4 Nov 2004 08:22:34 +0100
+Subject: [Lucane-translations] Application menu : new categories
+References: <b8c61c21041103135938846962@mail.gmail.com>
+Message-ID: <004c01c4c23f$13ed1810$0b00a8c0@zander>
+
+German:
+
+* Communications
+Kommunikation
+
+ * Graphics
+Grafik
+
+ * Productivity
+Produktivit?t
+
+* Tools
+Werkzeuge
+
+* Help
+Hilfe
+
+Vincent Fiack wrote:
+> Hello,
+>
+> In order to have a better application menu (no more submenus with one
+> item, no more overcrawded 'misc' menu), I moved every application to
+> new categories. To display them in the user language, I have to
+> change the messages.properties files.
+>
+> Here are the new categories, with applications they are containing. I
+> need the translation for each new categorie (not for the apps) :
+>
+> * Communications
+> (QuickMessage, Meeting, SendFile, AudioConf)
+>
+> * Graphics
+> (Whiteboard, SlideShow)
+>
+> * Productivity
+> (Notes, Todo Lists, Calendar, Shared Folder, Forum)
+>
+> * Tools
+> (RSS Reader, JMail)
+>
+> * Help
+> (About, Help Browser)
+>
+>
+> A few one aren't changed so you don't need to translate them.
+> However, i'll list them too :
+>
+> * Preferences
+> (JMail Account, User Profile, Calendar (prefs), Password Changer)
+>
+> * Invisible
+> (Reminder, QuickLaunch, MainInterface)
+>
+> * Administration
+> (Administration, Kick Users, SMTP Server, JMail Admin, Forums,
+> Shutdown server, SQL Navigator).
+>
+>
+> Thank you very much,
+> Vincent.
+> _______________________________________________
+> Lucane-translations mailing list
+> Lucane-translations at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/lucane-translations 
+
+
+
+From vfiack at gmail.com  Thu Nov  4 17:39:28 2004
+From: vfiack at gmail.com (Vincent Fiack)
+Date: Thu, 4 Nov 2004 17:39:28 +0100
+Subject: [Lucane-translations] forumadmin web messages
+In-Reply-To: <20041103221225.01CDA1F50B1@ws1-2.us4.outblaze.com>
+References: <20041103221225.01CDA1F50B1@ws1-2.us4.outblaze.com>
+Message-ID: <b8c61c21041104083976a83031@mail.gmail.com>
+
+On Wed, 03 Nov 2004 17:12:23 -0500, Theo Beers <egeltje at mail.com> wrote:
+> Sorry, didn't check my mail for a while. 
+
+No problem, I'm glad you're still here :)
+Thanks,
+
+Vincent.
+
+
+From vfiack at gmail.com  Sat Nov  6 23:07:34 2004
+From: vfiack at gmail.com (Vincent Fiack)
+Date: Sat, 6 Nov 2004 23:07:34 +0100
+Subject: [Lucane-translations] admin plugin: check on plugin version
+Message-ID: <b8c61c21041106140747ff07ad@mail.gmail.com>
+
+Hello,
+
+I've added a simple check in the admin plugin to verify that you set
+up a version when adding a plugin. Here is the associated error
+message.
+
+# PluginPanel
+err.pluginVersionIsMandatory = You must set a version number.
+
+Thanks,
+Vincent.
+
+
+From carsten.schaefer at ttc-informatik.de  Sun Nov  7 12:01:48 2004
+From: carsten.schaefer at ttc-informatik.de (=?iso-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Sun, 7 Nov 2004 12:01:48 +0100
+Subject: [Lucane-translations] admin plugin: check on plugin version
+References: <b8c61c21041106140747ff07ad@mail.gmail.com>
+Message-ID: <001401c4c4b9$2e67b980$0200a8c0@zander>
+
+German:
+err.pluginVersionIsMandatory = Sie m?ssen eine Versionsnummer setzen.
+
+
+Vincent Fiack wrote:
+> Hello,
+>
+> I've added a simple check in the admin plugin to verify that you set
+> up a version when adding a plugin. Here is the associated error
+> message.
+>
+> # PluginPanel
+> err.pluginVersionIsMandatory = You must set a version number.
+>
+> Thanks,
+> Vincent.
+> _______________________________________________
+> Lucane-translations mailing list
+> Lucane-translations at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/lucane-translations 
+
+
+
+
+From vfiack at mail15.com  Sun Nov  7 16:54:46 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sun, 07 Nov 2004 16:54:46 +0100
+Subject: [Lucane-translations] Lucane 0.7.4-beta is available
+Message-ID: <418E4546.7010002@mail15.com>
+
+After a long month of development, here is a new release : 0.7.4-beta.
+The new things that need special testing are the rpm distribution,
+calendar evolutions, and webconnector.
+
+A full list of changes, including screenshots, is available here :
+http://lucane.org/groupware/documentation/whatsnew/0.7.4-beta/
+
+If i did not forget anything, all your translations should be up to date.
+Thank you, one more time ;)
+
+Enjoy,
+Vincent.
+
+
+
+From vfiack at gmail.com  Mon Nov  8 19:18:55 2004
+From: vfiack at gmail.com (Vincent Fiack)
+Date: Mon, 8 Nov 2004 19:18:55 +0100
+Subject: [Lucane-translations] jmail account & jmail admin : refresh interval
+Message-ID: <b8c61c2104110810185067e29e@mail.gmail.com>
+
+Hello,
+
+I've added a way to select the interval between mail checking in jmail.
+Here is the message needed in the config dialog :
+
+refreshInterval = Refresh interval (mn)
+
+Thanks,
+Vincent.
+
+
+From egeltje at mail.com  Mon Nov  8 19:41:34 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Mon, 08 Nov 2004 13:41:34 -0500
+Subject: [Lucane-translations] jmail account & jmail admin : refresh
+    interval
+Message-ID: <20041108184135.AFE14101D8@ws1-3.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20041108/8b8840ad/attachment.html>
+
+From egeltje at mail.com  Mon Nov  8 19:39:33 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Mon, 08 Nov 2004 13:39:33 -0500
+Subject: [Lucane-translations] admin plugin: check on plugin version
+Message-ID: <20041108183933.ECB6F101C9@ws1-3.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20041108/256d0fcd/attachment.html>
+
+From egeltje at mail.com  Mon Nov  8 21:11:32 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Mon, 08 Nov 2004 15:11:32 -0500
+Subject: [Lucane-translations] Lucane 0.7.4-beta is available
+Message-ID: <20041108201132.BB78C101D9@ws1-3.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20041108/beb06d54/attachment.html>
+
+From carsten.schaefer at ttc-informatik.de  Tue Nov  9 07:32:54 2004
+From: carsten.schaefer at ttc-informatik.de (=?iso-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Tue, 9 Nov 2004 07:32:54 +0100
+Subject: [Lucane-translations] jmail account & jmail admin : refresh interval
+References: <b8c61c2104110810185067e29e@mail.gmail.com>
+Message-ID: <003801c4c625$f21ea240$0b00a8c0@zander>
+
+ refreshInterval = Abfrage-Interval (min)
+
+Vincent Fiack wrote:
+> Hello,
+> 
+> I've added a way to select the interval between mail checking in
+> jmail. Here is the message needed in the config dialog :
+> 
+> refreshInterval = Refresh interval (mn)
+> 
+> Thanks,
+> Vincent.
+> _______________________________________________
+> Lucane-translations mailing list
+> Lucane-translations at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/lucane-translations
+
+
+From vfiack at gmail.com  Sun Nov 14 01:41:07 2004
+From: vfiack at gmail.com (Vincent Fiack)
+Date: Sun, 14 Nov 2004 01:41:07 +0100
+Subject: [Lucane-translations] userprofile webapp: confirmation
+Message-ID: <b8c61c2104111316416a40cbd4@mail.gmail.com>
+
+Hello,
+
+I've added a web interface to user profile, so I needed to add a
+confirmation message :
+
+msg.profileChanged = Your profile has been changed.
+
+Thanks,
+Vincent.
+
+
+From egeltje at mail.com  Mon Nov 15 12:11:45 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Mon, 15 Nov 2004 06:11:45 -0500
+Subject: [Lucane-translations] userprofile webapp: confirmation
+Message-ID: <20041115111145.1B0401CE302@ws1-6.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20041115/51837afa/attachment.html>
+
+From carsten.schaefer at ttc-informatik.de  Fri Nov 19 20:24:04 2004
+From: carsten.schaefer at ttc-informatik.de (=?iso-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Fri, 19 Nov 2004 20:24:04 +0100
+Subject: [Lucane-translations] userprofile webapp: confirmation
+References: <b8c61c2104111316416a40cbd4@mail.gmail.com>
+Message-ID: <001201c4ce6d$56b97b90$0200a8c0@zander>
+
+German:
+
+msg.profileChanged = Ihr Profil wurde ge?ndert.
+
+Vincent Fiack wrote:
+> Hello,
+>
+> I've added a web interface to user profile, so I needed to add a
+> confirmation message :
+>
+> msg.profileChanged = Your profile has been changed.
+>
+> Thanks,
+> Vincent.
+> _______________________________________________
+> Lucane-translations mailing list
+> Lucane-translations at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/lucane-translations 
+
+
+
+

@@ -1,0 +1,357 @@
+From vfiack at mail15.com  Mon Apr  5 17:02:13 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Mon, 05 Apr 2004 17:02:13 +0200
+Subject: [Lucane-translations] calendar
+Message-ID: <407174F5.1090309@mail15.com>
+
+btn.otherCalendars = Other
+external.viewer = You are an external viewer
+event.is.private = This event is private.
+
+
+(otherCalendars is a button on the main window to load other people's 
+calendars)
+
+
+From vfiack at mail15.com  Mon Apr  5 17:03:08 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Mon, 05 Apr 2004 17:03:08 +0200
+Subject: [Lucane-translations] JMailAdmin
+Message-ID: <4071752C.2020909@mail15.com>
+
+btn.copy = Copy
+btn.paste = Paste
+
+
+
+From egeltje at mail.com  Tue Apr  6 13:05:09 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Tue, 06 Apr 2004 06:05:09 -0500
+Subject: [Lucane-translations] calendar
+Message-ID: <20040406110509.B904B10076@ws1-16.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040406/405aaacb/attachment.html>
+
+From egeltje at mail.com  Tue Apr  6 13:06:10 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Tue, 06 Apr 2004 06:06:10 -0500
+Subject: [Lucane-translations] JMailAdmin
+Message-ID: <20040406110610.F087910076@ws1-16.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040406/46cf7017/attachment.html>
+
+From vfiack at mail15.com  Tue Apr 13 11:42:27 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Tue, 13 Apr 2004 13:42:27 +0400 (MSD)
+Subject: [Lucane-translations] Warnings in administration application
+Message-ID: <200404130942.i3D9gRDW022949@www3.hotbox.ru>
+
+Here are the messages for the warnings :
+
+# warnings
+dangerous.update = Updating this concept might screw
+your Lucane completely, are you sure ?
+dangerous.remove = Removing this concept might screw
+your Lucane completely, are you sure ?
+
+
+Thanks,
+Vincent.
+
+
+From vfiack at mail15.com  Tue Apr 13 15:49:59 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Tue, 13 Apr 2004 17:49:59 +0400 (MSD)
+Subject: [Lucane-translations] Client message when logging twice
+Message-ID: <200404131349.i3DDnxsu026038@www3.hotbox.ru>
+
+msg.disconnected = You have been disconnected.
+
+
+From egeltje at mail.com  Wed Apr 14 09:19:47 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 14 Apr 2004 02:19:47 -0500
+Subject: [Lucane-translations] Warnings in administration application
+Message-ID: <20040414071947.9B75043DF2@ws1-9.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040414/a0bfcc92/attachment.html>
+
+From egeltje at mail.com  Wed Apr 14 09:23:04 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 14 Apr 2004 02:23:04 -0500
+Subject: [Lucane-translations] Client message when logging twice
+Message-ID: <20040414072304.C78A043DF3@ws1-9.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040414/90bf2485/attachment.html>
+
+From vfiack at mail15.com  Fri Apr 16 20:36:07 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Fri, 16 Apr 2004 20:36:07 +0200
+Subject: [Lucane-translations] Client : port occupied
+Message-ID: <40802797.5050209@mail15.com>
+
+Question displayed if the configured client port can't be used :
+
+question.startWithOtherPort = The port you have configured is occupied. 
+Continue with another one ?
+
+Thanks,
+Vincent.
+
+
+From egeltje at mail.com  Sun Apr 18 18:32:59 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Sun, 18 Apr 2004 11:32:59 -0500
+Subject: [Lucane-translations] Client : port occupied
+Message-ID: <20040418163259.A61AE1340AD@ws1-88.us4.outblaze.com>
+
+Dutch Translation
+
+question.startWithOtherPort = De poort die u heeft ingesteld is bezet. Doorgaan met een andere?
+
+-- 
+___________________________________________________________
+Sign-up for Ads Free at Mail.com
+http://promo.mail.com/adsfreejump.htm
+
+
+
+From vfiack at mail15.com  Wed Apr 21 16:20:26 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Wed, 21 Apr 2004 18:20:26 +0400 (MSD)
+Subject: [Lucane-translations] new admin application : kick
+Message-ID: <200404211420.i3LEKQje041811@www2.hotbox.ru>
+
+(used to disconnect clients)
+
+tooltip = Disconnect users
+title = Kick Users
+
+msg.selectUsers = Please select the users to kick.
+msg.reallyKickUsers = Do you really want to kick %1 users ?
+
+
+Thanks a lot !
+Vincent.
+
+
+From egeltje at mail.com  Thu Apr 22 16:10:16 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Thu, 22 Apr 2004 09:10:16 -0500
+Subject: [Lucane-translations] new admin application : kick
+Message-ID: <20040422141016.BEA851F5037@ws1-12.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040422/fb251cbe/attachment.html>
+
+From pawel at atisoft.poznan.pl  Mon Apr 26 07:47:10 2004
+From: pawel at atisoft.poznan.pl (=?iso-8859-2?Q?Pawe=B3_Szubert?=)
+Date: Mon, 26 Apr 2004 07:47:10 +0200 (CEST)
+Subject: [Lucane-translations] new admin application : kick
+In-Reply-To: <200404211420.i3LEKQje041811@www2.hotbox.ru>
+Message-ID: <Pine.LNX.4.21.0404260745000.4144-100000@mail.atisoft.soho>
+
+hello!
+Ii'd like to translate lucane into polish.
+Should i look for the messages in the sources or can You send me the
+complete list of messages?
+I thik I'll be busy for a week or two but after that time i really wnat
+to help.
+Pawel Szubert
+
+
+
+
+From vfiack at mail15.com  Mon Apr 26 09:32:45 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Mon, 26 Apr 2004 11:32:45 +0400 (MSD)
+Subject: [Lucane-translations] new admin application : kick
+Message-ID: <200404260732.i3Q7WjsB059195@www5.hotbox.ru>
+
+> Ii'd like to translate lucane into polish.
+great !
+
+> Should i look for the messages in the sources or can
+You send me the
+> complete list of messages?
+Well, the messages are in the sources, but if you want
+I can send you an archive with the messages files only.
+
+Have a nice day,
+Vincent.
+
+
+From vfiack at mail15.com  Mon Apr 26 09:32:45 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Mon, 26 Apr 2004 11:32:45 +0400 (MSD)
+Subject: [Lucane-translations] new admin application : kick
+Message-ID: <200404260732.i3Q7WjsB059195@www5.hotbox.ru>
+
+> Ii'd like to translate lucane into polish.
+great !
+
+> Should i look for the messages in the sources or can
+You send me the
+> complete list of messages?
+Well, the messages are in the sources, but if you want
+I can send you an archive with the messages files only.
+
+Have a nice day,
+Vincent.
+
+
+From vfiack at mail15.com  Mon Apr 26 17:14:02 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Mon, 26 Apr 2004 17:14:02 +0200
+Subject: [Lucane-translations] PDF Export in Calendar
+Message-ID: <408D273A.6010101@mail15.com>
+
+Hello,
+here are the new keys for the pdf export feature.
+
+# pdf export
+pdf.export = Export
+pdf.generated = PDF Export generated !
+err.pdf.generation = Unable to generate PDF Export !
+
+
+Thanks !
+Vincent.
+
+
+From egeltje at mail.com  Mon Apr 26 23:42:24 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Mon, 26 Apr 2004 16:42:24 -0500
+Subject: [Lucane-translations] PDF Export in Calendar
+Message-ID: <20040426214224.67AF92333A@ws1-2.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040426/2c3340f6/attachment.html>
+
+From pawel at atisoft.poznan.pl  Tue Apr 27 08:33:51 2004
+From: pawel at atisoft.poznan.pl (=?iso-8859-2?Q?Pawe=B3_Szubert?=)
+Date: Tue, 27 Apr 2004 08:33:51 +0200 (CEST)
+Subject: [Lucane-translations] PDF Export in Calendar
+In-Reply-To: <408D273A.6010101@mail15.com>
+Message-ID: <Pine.LNX.4.21.0404270826400.4244-100000@mail.atisoft.soho>
+
+On Mon, 26 Apr 2004, Vincent Fiack wrote:
+# pdf export
+pdf.export = Eksport 
+pdf.generated = Plik PDF utworzony !
+err.pdf.generation = B??d tworzenia pliku PDF !
+
+Pawe?
+PS
+Polish translation should use ISO-8859-2 code page.
+When it's possible i will try to use words without polish signs but
+sometimes it is not possible (or sounds rather "artificial")
+Pawe?
+
+
+
+From pawel at atisoft.poznan.pl  Tue Apr 27 08:39:17 2004
+From: pawel at atisoft.poznan.pl (=?iso-8859-2?Q?Pawe=B3_Szubert?=)
+Date: Tue, 27 Apr 2004 08:39:17 +0200 (CEST)
+Subject: [Lucane-translations] new admin application : kick
+In-Reply-To: <200404211420.i3LEKQje041811@www2.hotbox.ru>
+Message-ID: <Pine.LNX.4.21.0404270835220.4244-100000@mail.atisoft.soho>
+
+On Wed, 21 Apr 2004, Vincent Fiack wrote:
+(used to disconnect clients)
+ 
+tooltip = Od??czanie u?ytkownik?w
+title = Od??cz U?ytkownik?w
+
+msg.selectUsers = Wybierz u?ytkownik?w kt?rych chcesz od??czy?.
+msg.reallyKickUsers = Czy napewno od??czy? %1 u?ytkownik?w ?
+
+Have a nice day!
+Pawe?
+
+
+
+
+From pawel at atisoft.poznan.pl  Tue Apr 27 08:51:20 2004
+From: pawel at atisoft.poznan.pl (=?iso-8859-2?Q?Pawe=B3_Szubert?=)
+Date: Tue, 27 Apr 2004 08:51:20 +0200 (CEST)
+Subject: [Lucane-translations] new admin application : kick
+In-Reply-To: <200404260732.i3Q7WjsB059195@www5.hotbox.ru>
+Message-ID: <Pine.LNX.4.21.0404270849380.4529-100000@mail.atisoft.soho>
+
+On Mon, 26 Apr 2004, Vincent Fiack wrote:
+> Well, the messages are in the sources, but if you want
+> I can send you an archive with the messages files only.
+> 
+No problem, I will translate the messages from the sources
+(version 0.7-preview).
+Pawe?
+
+
+
+
+From vfiack at mail15.com  Tue Apr 27 18:17:51 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Tue, 27 Apr 2004 18:17:51 +0200
+Subject: [Lucane-translations] new app: audioconf
+Message-ID: <408E87AF.5090302@mail15.com>
+
+Here are the messages for audioconf :
+
+tooltip = Audio conferency
+category = Audio
+title = AudioConf
+                                                                                                                                                                            
+ 
+audio.config = Audio Configuration
+                                                                                                                                                                            
+ 
+mode.narrowband = Narrowband
+mode.wideband = Wideband
+mode.ultrawideband = Ultra-wideband
+                                                                                                                                                                            
+ 
+label.mode = Mode
+label.quality = Quality
+                                                                                                                                                                            
+ 
+btn.ok = Ok
+btn.cancel = Cancel
+btn.stop = Stop
+                                                                                                                                                                            
+ 
+msg.acceptFrom = Accept audioconf from %1 ?
+msg.rejectedBy = Audioconf rejected by %1.
+msg.nowStreamingWith = Now streaming with %1.
+                                                                                                                                                                            
+ 
+err.noUserSelected = No user selected !
+err.accept = Error in acceptation !
+
+
+Thanks,
+Vincent.
+
+
+From egeltje at mail.com  Wed Apr 28 09:57:21 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 28 Apr 2004 02:57:21 -0500
+Subject: [Lucane-translations] new app: audioconf
+Message-ID: <20040428075721.17F7F1F4FEA@ws1-12.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040428/387ae060/attachment.html>
+
+From egeltje at mail.com  Wed Apr 28 13:40:47 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 28 Apr 2004 06:40:47 -0500
+Subject: [Lucane-translations] new app: audioconf
+Message-ID: <20040428114047.9D22E1F4FEA@ws1-12.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040428/3e3a2d71/attachment.html>
+

@@ -1,0 +1,496 @@
+From vfiack at gmail.com  Sat Feb 19 00:12:43 2005
+From: vfiack at gmail.com (Vincent Fiack)
+Date: Sat, 19 Feb 2005 00:12:43 +0100
+Subject: [Lucane-translations] Acl editor (web)
+Message-ID: <b8c61c21050218151261930d5c@mail.gmail.com>
+
+Hello dear translators,
+
+I've almost finished acl's web editor. I still have some work to make
+it pretty, but I have all the messages I need.
+
+I managed to reuse most of the messages you already translated for the
+desktop client, but I lack a few ones. I also added a single message
+in the client.
+
+Here they are :
+* added in client :
+acl.lbl.permission = Permission
+
+* needed in web (other are similar to client) :
+acl.title.aclFor = Access control for %1
+acl.title.groups = Groups
+acl.title.users = Users
+acl.lbl.ignore = Ignore
+acl.btn.update = Update
+acl.msg.backToLists = Back to user & group lists
+
+
+Thanks a lot,
+Vincent.
+
+
+From vfiack at gmail.com  Sun Feb 20 22:33:23 2005
+From: vfiack at gmail.com (Vincent Fiack)
+Date: Sun, 20 Feb 2005 22:33:23 +0100
+Subject: [Lucane-translations] new app: sharedfolder
+Message-ID: <b8c61c210502201333ea37164@mail.gmail.com>
+
+Hello,
+
+I'm almost ready to release Lucane 0.7.5-beta. I've finished our new
+shared folder application, and added ACL support to forum & todolist.
+BTW, todolist will also need some new messages, but i don't have them
+yet.
+
+Here are the messages needed by sharedfolder :
+
+-------------------------
+title = Shared Folder
+tooltip = Distant file sharing
+
+# actions
+tip.openParent = Go to parent folder (Backspace)
+tip.openFolder = Open selected folder (Enter)
+tip.refresh = Refresh folder (F5)
+tip.rename = Rename selected item (F2)
+tip.move = Move selected item
+tip.remove = Remove selected item (Del)
+tip.upload = Upload file
+tip.newVersion = Upload new version
+tip.download = Download file
+tip.createFolder = Create folder (F7)
+tip.editAcl = Edit ACL
+tip.history = File history (H)
+
+# table headers
+col.name = Name
+col.owner = Owner
+col.created = Created
+col.modified = Modified
+col.version = Version
+col.size = Size
+
+# special folders
+folder.root = (Root)
+
+# buttons
+btn.upload = Upload
+btn.moveItem = Move item
+
+# windows
+window.move = Move item :
+window.history = File history :
+
+# messages
+msg.enterNewName = Enter a new name :
+msg.enterFolderName = Enter folder's name :
+msg.unwritableDestinationFolder = You don't have write access to the
+selected folder.
+
+# acl
+err.unableToEditAcl = Unable to edit ACL
+acl.Read = Read
+acl.Write = Write
+
+# web
+web.title.folders = Folders
+web.title.files = Files
+web.title.history = History
+
+web.type.folder = Folder
+web.type.unknown = Unknown
+
+web.action.openParent = Move up
+web.action.rename = Rename
+web.action.move = Move
+web.action.moveHere = Move here
+web.action.remove = Remove
+web.action.upload = Upload file
+web.action.newVersion = Upload new version
+web.action.download = Download file
+web.action.createFolder = Create folder
+web.action.editAcl = Edit ACL
+
+web.msg.folderCreated = Folder created !
+web.msg.folderRemoved = Folder removed !
+web.msg.folderRenamed = Folder renamed !
+web.msg.folderMoved = Folder moved !
+web.msg.fileRemoved = File removed !
+web.msg.fileRenamed = File renamed !
+web.msg.fileMoved = File moved !
+web.msg.fileUploaded = File uploaded !
+web.msg.fileVersionUploaded = File version uploaded 
+-------------------------
+
+This is rather long, so if you don't have enough time to translate it
+right now, this isn't a problem, I can release a beta without it.
+
+Thanks,
+Vincent.
+
+
+From egeltje at mail.com  Thu Feb 24 16:34:28 2005
+From: egeltje at mail.com (Theo Beers)
+Date: Thu, 24 Feb 2005 10:34:28 -0500
+Subject: [Lucane-translations] Acl editor (web)
+Message-ID: <20050224153429.7155D4BDAA@ws1-1.us4.outblaze.com>
+
+* added in client :
+acl.lbl.permission = Recht
+
+* needed in web (other are similar to client) :
+acl.title.aclFor = Toegangsrecht voor %1
+acl.title.groups = Groepen
+acl.title.users = Gebruikers
+acl.lbl.ignore = Negeer
+acl.btn.update = Vernieuw
+acl.msg.backToLists = Terug naar gebruikers & Groepen lijst
+-- 
+___________________________________________________________
+Sign-up for Ads Free at Mail.com
+http://promo.mail.com/adsfreejump.htm
+
+
+
+From carsten.schaefer at ttc-informatik.de  Fri Feb 25 13:34:19 2005
+From: carsten.schaefer at ttc-informatik.de (=?ISO-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Fri, 25 Feb 2005 13:34:19 +0100
+Subject: [Lucane-translations] Acl editor (web)
+In-Reply-To: <b8c61c21050218151261930d5c@mail.gmail.com>
+References: <b8c61c21050218151261930d5c@mail.gmail.com>
+Message-ID: <421F1B4B.1030100@ttc-informatik.de>
+
+German
+
+* added in client :
+acl.lbl.permission = Recht
+
+* needed in web (other are similar to client) :
+acl.title.aclFor = Zugang f?r %1
+acl.title.groups = Gruppen
+acl.title.users = Benutzer
+acl.lbl.ignore = Ignorieren
+acl.btn.update = Erneuern
+acl.msg.backToLists = Zur?ck zur Benutzer & Gruppen Liste
+
+
+
+Vincent Fiack schrieb:
+
+>Hello dear translators,
+>
+>I've almost finished acl's web editor. I still have some work to make
+>it pretty, but I have all the messages I need.
+>
+>I managed to reuse most of the messages you already translated for the
+>desktop client, but I lack a few ones. I also added a single message
+>in the client.
+>
+>Here they are :
+>* added in client :
+>acl.lbl.permission = Permission
+>
+>* needed in web (other are similar to client) :
+>acl.title.aclFor = Access control for %1
+>acl.title.groups = Groups
+>acl.title.users = Users
+>acl.lbl.ignore = Ignore
+>acl.btn.update = Update
+>acl.msg.backToLists = Back to user & group lists
+>
+>
+>Thanks a lot,
+>Vincent.
+>_______________________________________________
+>Lucane-translations mailing list
+>Lucane-translations at lists.berlios.de
+>http://lists.berlios.de/mailman/listinfo/lucane-translations
+>
+>  
+>
+
+
+From carsten.schaefer at ttc-informatik.de  Fri Feb 25 13:50:14 2005
+From: carsten.schaefer at ttc-informatik.de (=?ISO-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Fri, 25 Feb 2005 13:50:14 +0100
+Subject: [Lucane-translations] new app: sharedfolder
+In-Reply-To: <b8c61c210502201333ea37164@mail.gmail.com>
+References: <b8c61c210502201333ea37164@mail.gmail.com>
+Message-ID: <421F1F06.70205@ttc-informatik.de>
+
+German:
+
+-------------------------
+title = Gemeinsamer Ordner
+tooltip = Entfernter Zugriff auf gemeinsame Dateien
+
+# actions
+tip.openParent = Einen Ordner aufw?rts (Backspace)
+tip.openFolder = Selektierten Ordner ?ffnen (Enter)
+tip.refresh = Ordner aktualisieren (F5)
+tip.rename = Ausgew?hltes Element umbenennen (F2)
+tip.move = Ausgew?hltes Element verschieben
+tip.remove = Ausgew?hltes Element entfernen (Del)
+tip.upload = Datei hochladen
+tip.newVersion = Neue Version hochladen
+tip.download = Datei herunterladen
+tip.createFolder = Neuen Ordner erzeugen (F7)
+tip.editAcl = ACL bearbeiten
+tip.history = Datei Historie (H)
+
+# table headers
+col.name = Name
+col.owner = Besitzer
+col.created = Erzeugt am
+col.modified = Ge?ndert am
+col.version = Version
+col.size = Gr??e
+
+# special folders
+folder.root = (Root)
+
+# buttons
+btn.upload = Hochladen
+btn.moveItem = Element verschieben
+
+# windows
+window.move = Element verschieben :
+window.history = Datei Historie :
+
+# messages
+msg.enterNewName = Einen neuen namen eingeben :
+msg.enterFolderName = Ordner-Name eingeben :
+msg.unwritableDestinationFolder = Sie besitzen keine Schreibrechte auf dem ausgew?hlten Ordner.
+
+# acl
+err.unableToEditAcl = Fehler beim Bearbeiten der ACL
+acl.Read = Lesen
+acl.Write = Schreiben
+
+# web
+web.title.folders = Ordner
+web.title.files = Dateien
+web.title.history = Historie
+
+web.type.folder = Ordner
+web.type.unknown = Unbekannt
+
+web.action.openParent = Aufw?rts
+web.action.rename = Umbenennen
+web.action.move = Verschieben
+web.action.moveHere = Hierher verschieben
+web.action.remove = Entfernen
+web.action.upload = Datei hochladen
+web.action.newVersion = Neue Version hochladen
+web.action.download = Datei herunterladen
+web.action.createFolder = Ordner erzeugen
+web.action.editAcl = ACL bearbeiten
+
+web.msg.folderCreated = Ordner erzeugt !
+web.msg.folderRemoved = Ordner entfernt !
+web.msg.folderRenamed = Ordner umbenannt !
+web.msg.folderMoved = Ornder verschoben !
+web.msg.fileRemoved = Datei entfernt !
+web.msg.fileRenamed = Datei umbenannt !
+web.msg.fileMoved = Datei verschoben !
+web.msg.fileUploaded = Datei hochgeladen !
+web.msg.fileVersionUploaded = Datei Version hochgeladen
+-------------------------
+
+
+
+Vincent Fiack schrieb:
+
+>Hello,
+>
+>I'm almost ready to release Lucane 0.7.5-beta. I've finished our new
+>shared folder application, and added ACL support to forum & todolist.
+>BTW, todolist will also need some new messages, but i don't have them
+>yet.
+>
+>Here are the messages needed by sharedfolder :
+>
+>-------------------------
+>title = Shared Folder
+>tooltip = Distant file sharing
+>
+># actions
+>tip.openParent = Go to parent folder (Backspace)
+>tip.openFolder = Open selected folder (Enter)
+>tip.refresh = Refresh folder (F5)
+>tip.rename = Rename selected item (F2)
+>tip.move = Move selected item
+>tip.remove = Remove selected item (Del)
+>tip.upload = Upload file
+>tip.newVersion = Upload new version
+>tip.download = Download file
+>tip.createFolder = Create folder (F7)
+>tip.editAcl = Edit ACL
+>tip.history = File history (H)
+>
+># table headers
+>col.name = Name
+>col.owner = Owner
+>col.created = Created
+>col.modified = Modified
+>col.version = Version
+>col.size = Size
+>
+># special folders
+>folder.root = (Root)
+>
+># buttons
+>btn.upload = Upload
+>btn.moveItem = Move item
+>
+># windows
+>window.move = Move item :
+>window.history = File history :
+>
+># messages
+>msg.enterNewName = Enter a new name :
+>msg.enterFolderName = Enter folder's name :
+>msg.unwritableDestinationFolder = You don't have write access to the
+>selected folder.
+>
+># acl
+>err.unableToEditAcl = Unable to edit ACL
+>acl.Read = Read
+>acl.Write = Write
+>
+># web
+>web.title.folders = Folders
+>web.title.files = Files
+>web.title.history = History
+>
+>web.type.folder = Folder
+>web.type.unknown = Unknown
+>
+>web.action.openParent = Move up
+>web.action.rename = Rename
+>web.action.move = Move
+>web.action.moveHere = Move here
+>web.action.remove = Remove
+>web.action.upload = Upload file
+>web.action.newVersion = Upload new version
+>web.action.download = Download file
+>web.action.createFolder = Create folder
+>web.action.editAcl = Edit ACL
+>
+>web.msg.folderCreated = Folder created !
+>web.msg.folderRemoved = Folder removed !
+>web.msg.folderRenamed = Folder renamed !
+>web.msg.folderMoved = Folder moved !
+>web.msg.fileRemoved = File removed !
+>web.msg.fileRenamed = File renamed !
+>web.msg.fileMoved = File moved !
+>web.msg.fileUploaded = File uploaded !
+>web.msg.fileVersionUploaded = File version uploaded 
+>-------------------------
+>
+>This is rather long, so if you don't have enough time to translate it
+>right now, this isn't a problem, I can release a beta without it.
+>
+>Thanks,
+>Vincent.
+>_______________________________________________
+>Lucane-translations mailing list
+>Lucane-translations at lists.berlios.de
+>http://lists.berlios.de/mailman/listinfo/lucane-translations
+>
+>  
+>
+
+
+From egeltje at mail.com  Sun Feb 27 18:14:55 2005
+From: egeltje at mail.com (Theo Beers)
+Date: Sun, 27 Feb 2005 12:14:55 -0500
+Subject: [Lucane-translations] new app: sharedfolder
+Message-ID: <20050227171455.7450F4BDAA@ws1-1.us4.outblaze.com>
+
+##Dutch translation##
+
+-------------------------
+title = Gedeelde map
+tooltip = Bestanden delen over afstand
+
+# actions
+tip.openParent = Ga naar bovenliggende map (Backspace)
+tip.openFolder = Open geselecteerde map (Enter)
+tip.refresh = Vernieuw map (F5)
+tip.rename = Hernoem geselecteerd object (F2)
+tip.move = Verplaats geselecteerd object
+tip.remove = Verwijder geselecteerd object (Del)
+tip.upload = Upload bestand
+tip.newVersion = Upload nieuwe versie
+tip.download = Download bestand
+tip.createFolder = Maak map (F7)
+tip.editAcl = Wijzig ACL
+tip.history = Bestandsgeschiedenis (H)
+
+# table headers
+col.name = Naam
+col.owner = Eigenaar
+col.created = Aangemaakt
+col.modified = Gewijzigd
+col.version = Versie
+col.size = Grootte
+
+# special folders
+folder.root = (Root)
+
+# buttons
+btn.upload = Upload
+btn.moveItem = Verplaats object
+
+# windows
+window.move = Verplaats venster:
+window.history = Bestandsgeschiedenis:
+
+# messages
+msg.enterNewName = Vul een nieuwe naam in:
+msg.enterFolderName = Vul een mapnaam in:
+msg.unwritableDestinationFolder = Je hebt geen schrijfrechten op de geselecteerde map
+
+# acl
+err.unableToEditAcl = Kan ACL niet wijzigen
+acl.Read = Lezen
+acl.Write = Schrijven
+
+# web
+web.title.folders = Mappen
+web.title.files = Bestanden
+web.title.history = Geschiedenis
+
+web.type.folder = Map
+web.type.unknown = Onbekend
+
+web.action.openParent = Naar boven
+web.action.rename = Hernoem
+web.action.move = Verplaatst
+web.action.moveHere = Verplaats naar hier
+web.action.remove = Verwijder
+web.action.upload = Upload bestand
+web.action.newVersion = Upload nieuwe versie
+web.action.download = Download bestand
+web.action.createFolder = Maak map
+web.action.editAcl = Wijzig ACL
+
+web.msg.folderCreated = Map aangemaakt!
+web.msg.folderRemoved = Map verwijderd!
+web.msg.folderRenamed = Mapnaam gewijzigd!
+web.msg.folderMoved = Map verplaatst!
+web.msg.fileRemoved = Bestand verwijderd!
+web.msg.fileRenamed = Bestandnaam gewijzigd!
+web.msg.fileMoved = Bestand verplaatst!
+web.msg.fileUploaded = Bestand verstuurd!
+web.msg.fileVersionUploaded = Bestandsversie verstuurd!
+-------------------------
+-- 
+___________________________________________________________
+Sign-up for Ads Free at Mail.com
+http://promo.mail.com/adsfreejump.htm
+
+
+

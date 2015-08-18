@@ -1,0 +1,139 @@
+From vfiack at mail15.com  Sat Jul 10 19:30:44 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sat, 10 Jul 2004 19:30:44 +0200
+Subject: [Lucane-translations] Lucane groupware 0.7.1 has been released
+Message-ID: <40F027C4.2000908@mail15.com>
+
+Lucane groupware 0.7.1 has been released.
+
+The main changes are a new todolist application, a rss reader, some 
+calendar improvements and a complete refactoring for the server. Since 
+the latest beta, we added connection pooling.
+
+You can see the a full list of changes here :
+http://www.lucane.org/groupware/documentation/whatsnew/0.7.1/
+
+Thanks to every contributor !
+
+Regards,
+Vincent.
+
+
+From vfiack at mail15.com  Sun Jul 18 17:17:18 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sun, 18 Jul 2004 17:17:18 +0200
+Subject: [Lucane-translations] forum
+Message-ID: <40FA947E.7010600@mail15.com>
+
+Hello,
+
+I've change some parts of the forum, so here are the new messages :
+
+# ButtonActionListener
+err.unableToRefresh = Unable to refresh :
+err.unableToRead = Unable to read :
+
+# ForumSelectionListener
+err.unableToGetMessages = Unable to get messages :
+
+# MainWindow
+btn.refresh = Refresh
+btn.newMessage = New Message
+btn.reply = Reply
+btn.edit = Edit
+lbl.message = Message
+
+# MessageSelectionListener
+err.unableToGetMessageContent = Unable to get message content :
+
+# MessageWindow
+btn.post = Post
+btn.close = Close
+err.unableToPostMessage = Unable to post message :
+
+Thanks !
+Vincent.
+
+
+From egeltje at mail.com  Mon Jul 19 17:49:09 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Mon, 19 Jul 2004 10:49:09 -0500
+Subject: [Lucane-translations] forum
+Message-ID: <20040719154909.382F21F4FA4@ws1-2.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040719/6cb8d4a4/attachment.html>
+
+From vfiack at mail15.com  Wed Jul 21 19:36:42 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Wed, 21 Jul 2004 19:36:42 +0200
+Subject: [Lucane-translations] forumadmin
+Message-ID: <40FEA9AA.7000003@mail15.com>
+
+Hello,
+
+in order to match with the new forum and to allow acl editing, I had to 
+change a few messages to forumadmin :
+
+# forum admin
+btn.create = Create
+btn.remove = Remove
+btn.accessControl = Access Control
+btn.close = Close
+msg.newForum = New Forum
+
+err.list = Unable to fetch the forum list
+err.create = Unable to create the forum
+err.delete = Unable to delete the forum
+
+# access control
+msg.accessControl = Access Control :
+btn.addGroup = Add Group
+btn.addUser = Add User
+lbl.allow = Allow
+lbl.deny = Deny
+
+msg.allowGroup = Allow group :
+msg.allowUser = Allow user :
+msg.denyGroup = Deny group :
+msg.denyUser = Deny user :
+msg.selectGroup = Select a group :
+msg.selectUser = Select a user :
+
+err.unableToReadAccessControl = Unable to read access control list
+err.unableToListGroups = Unable to read the list of groups :
+err.unableToListUsers = Unable to read the list of users :
+err.unableToAddGroup = Unable to add this group :
+err.unableToAddUser = Unable to add this user :
+err.unableToRemoveAccessRule = Unable to remove this access rule :
+
+
+Thanks and have a nice day,
+Vincent.
+
+
+From egeltje at mail.com  Sun Jul 25 10:34:45 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Sun, 25 Jul 2004 03:34:45 -0500
+Subject: [Lucane-translations] forumadmin
+Message-ID: <20040725083445.D68CF1F4FA1@ws1-2.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040725/214e9aa2/attachment.html>
+
+From vfiack at mail15.com  Sat Jul 31 09:26:00 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sat, 31 Jul 2004 09:26:00 +0200
+Subject: [Lucane-translations] Lucane Groupware 0.7.2 is available
+Message-ID: <410B4988.3020205@mail15.com>
+
+In short, ACL were added, forum was improved, and calendar handles 
+recurrent events.
+
+You can see a full list of changes with images here :
+http://lucane.org/groupware/documentation/whatsnew/0.7.2/
+
+Enjoy,
+Vincent.
+
+

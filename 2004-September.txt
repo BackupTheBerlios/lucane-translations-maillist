@@ -1,0 +1,632 @@
+From egeltje at mail.com  Wed Sep  1 14:13:39 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 01 Sep 2004 07:13:39 -0500
+Subject: [Lucane-translations] user profiles
+Message-ID: <20040901121339.360336F029@ws1-5.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040901/f2e56d33/attachment.html>
+
+From egeltje at mail.com  Wed Sep  1 14:15:32 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 01 Sep 2004 07:15:32 -0500
+Subject: [Lucane-translations] calendar: annual recurrence
+Message-ID: <20040901121533.153DD6F033@ws1-5.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040901/3091f6a8/attachment.html>
+
+From egeltje at mail.com  Wed Sep  1 14:23:21 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 01 Sep 2004 07:23:21 -0500
+Subject: [Lucane-translations] htmleditor & spellchecker
+Message-ID: <20040901122321.97FFD6F029@ws1-5.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040901/4807a501/attachment.html>
+
+From vfiack at mail15.com  Wed Sep  1 18:06:23 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Wed, 01 Sep 2004 18:06:23 +0200
+Subject: [Lucane-translations] htmleditor & spellchecker
+In-Reply-To: <20040901122321.97FFD6F029@ws1-5.us4.outblaze.com>
+References: <20040901122321.97FFD6F029@ws1-5.us4.outblaze.com>
+Message-ID: <4135F37F.4060507@mail15.com>
+
+Theo Beers wrote:
+
+> ##Dutch Translation## !!!Where are the spaces around the = -signs at 
+> the jazzy spell schecker part? !!!##
+>
+No problem, there aren't significant :)
+
+
+From vfiack at mail15.com  Thu Sep  2 21:29:12 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Thu, 02 Sep 2004 21:29:12 +0200
+Subject: [Lucane-translations] Lucane Groupware 0.7.3-beta
+Message-ID: <41377488.5000801@mail15.com>
+
+We're happy to announce Lucane 0.7.3-beta !
+The main addition in a shared drawing application.
+A lot of other improvements were also made :
+
+http://lucane.org/groupware/documentation/whatsnew/0.7.3-beta/
+
+
+From vfiack at mail15.com  Sat Sep  4 16:54:39 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sat, 04 Sep 2004 16:54:39 +0200
+Subject: [Lucane-translations] smtp host
+Message-ID: <4139D72F.7080701@mail15.com>
+
+Hello,
+
+here are the messages for the admin application that can change your 
+smtp host :
+
+tooltip = Change your smtp host
+category = Administration
+title = SMTP Server
+
+lbl.smtpHost = SMTP Host :
+btn.apply = Apply
+err.unableToSetHost = Unable to set the new value
+err.unableToGetHost = Unable to get the current value
+
+Thanks a lot,
+Vincent.
+
+
+From vfiack at mail15.com  Sun Sep  5 18:24:51 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sun, 05 Sep 2004 18:24:51 +0200
+Subject: [Lucane-translations] admin app : add the user to a group on creation
+Message-ID: <413B3DD3.6010305@mail15.com>
+
+Hello,
+
+here are the two messages needed for group selection when a new user is 
+added :
+
+msg.addToGroup = Add to a group
+msg.selectGroup = Select a group for this user :
+
+Thanks !
+Vincent.
+
+
+From carsten.schaefer at ttc-informatik.de  Mon Sep  6 10:46:42 2004
+From: carsten.schaefer at ttc-informatik.de (=?Windows-1252?Q?Carsten_Sch=E4fer?=)
+Date: Mon, 6 Sep 2004 10:46:42 +0200
+Subject: [Lucane-translations] German Translation
+Message-ID: <003c01c493ee$08ab2570$0b00a8c0@zander>
+
+Hi,
+we have done German translation for lucane.
+Where do i have to send translated messages ?
+
+mfg
+Carsten Sch?fer
+TTC Informatik GmbH
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040906/7f6051d2/attachment.html>
+
+From vfiack at mail15.com  Mon Sep  6 12:20:03 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Mon, 6 Sep 2004 14:20:03 +0400 (MSD)
+Subject: [Lucane-translations] German Translation
+Message-ID: <200409061020.i86AK3uK019220@www4.pochta.ru>
+
+> we have done German translation for lucane.
+> Where do i have to send translated messages ?
+
+You can send them to me : vfiack at mail15.com
+
+Thanks !
+
+
+From vfiack at mail15.com  Mon Sep  6 12:20:03 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Mon, 6 Sep 2004 14:20:03 +0400 (MSD)
+Subject: [Lucane-translations] German Translation
+Message-ID: <200409061020.i86AK3uK019220@www4.pochta.ru>
+
+> we have done German translation for lucane.
+> Where do i have to send translated messages ?
+
+You can send them to me : vfiack at mail15.com
+
+Thanks !
+
+
+From vfiack at mail15.com  Tue Sep  7 17:56:45 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Tue, 07 Sep 2004 17:56:45 +0200
+Subject: [Lucane-translations] user language in admin app
+Message-ID: <413DDA3D.5010505@mail15.com>
+
+Hello,
+
+I added a 'preferred language' in database that will be used to send 
+mails in the user langage, so
+i needed to add this message in the admin app :
+
+user.language = Langue
+
+Have a nice day,
+Vincent.
+
+
+From vfiack at mail15.com  Tue Sep  7 17:59:50 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Tue, 07 Sep 2004 17:59:50 +0200
+Subject: [Lucane-translations] user language in admin app
+In-Reply-To: <413DDA3D.5010505@mail15.com>
+References: <413DDA3D.5010505@mail15.com>
+Message-ID: <413DDAF6.8020207@mail15.com>
+
+> user.language = Langue
+
+Sorry, i posted the french one !
+so here it is again :
+
+user.language = Language
+
+;-)
+
+
+From vfiack at mail15.com  Tue Sep  7 19:21:07 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Tue, 07 Sep 2004 19:21:07 +0200
+Subject: [Lucane-translations] mail sent by calendar
+Message-ID: <413DEE03.2060209@mail15.com>
+
+Hello again,
+
+The calendar can now send localized mails. It's not in a .properties 
+file, but in a home made template.
+Here they are :
+
+* event-new.mail:
+New event :
+Start :
+End :
+
+* event-update.mail:
+Update :
+
+Thanks !
+Vincent.
+
+
+From egeltje at mail.com  Tue Sep  7 23:13:05 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Tue, 07 Sep 2004 16:13:05 -0500
+Subject: [Lucane-translations] smtp host
+Message-ID: <20040907211305.87B444BDA8@ws1-1.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040907/8236f973/attachment.html>
+
+From egeltje at mail.com  Tue Sep  7 23:14:42 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Tue, 07 Sep 2004 16:14:42 -0500
+Subject: [Lucane-translations] admin app : add the user to a group on
+    creation
+Message-ID: <20040907211442.3FC7D4BDA8@ws1-1.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040907/edd33585/attachment.html>
+
+From egeltje at mail.com  Tue Sep  7 23:16:41 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Tue, 07 Sep 2004 16:16:41 -0500
+Subject: [Lucane-translations] user language in admin app
+Message-ID: <20040907211641.63DCF4BDA8@ws1-1.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040907/0b6ec7c6/attachment.html>
+
+From egeltje at mail.com  Tue Sep  7 23:19:14 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Tue, 07 Sep 2004 16:19:14 -0500
+Subject: [Lucane-translations] mail sent by calendar
+Message-ID: <20040907211914.F1F784BDA8@ws1-1.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040907/dadd746a/attachment.html>
+
+From egeltje at mail.com  Tue Sep  7 23:26:55 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Tue, 07 Sep 2004 16:26:55 -0500
+Subject: [Lucane-translations] Todolist
+Message-ID: <20040907212655.535534BDA8@ws1-1.us4.outblaze.com>
+
+Could you please change the category line of the messages_nl.properties of the todolist from 'category = overig' into 'category = Overig' (mention the capital O)? 
+Thanks in advance.
+-- 
+___________________________________________________________
+Sign-up for Ads Free at Mail.com
+http://promo.mail.com/adsfreejump.htm
+
+
+
+From vfiack at mail15.com  Tue Sep  7 23:37:07 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Tue, 07 Sep 2004 23:37:07 +0200
+Subject: [Lucane-translations] Todolist
+In-Reply-To: <20040907212655.535534BDA8@ws1-1.us4.outblaze.com>
+References: <20040907212655.535534BDA8@ws1-1.us4.outblaze.com>
+Message-ID: <413E2A03.90004@mail15.com>
+
+Theo Beers wrote:
+
+>Could you please change the category line of the messages_nl.properties of the todolist from 'category = overig' into 'category = Overig' (mention the capital O)? 
+>Thanks in advance.
+>  
+>
+done !
+
+
+From vfiack at mail15.com  Fri Sep 10 17:40:56 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Fri, 10 Sep 2004 17:40:56 +0200
+Subject: [Lucane-translations] new app: userprofile
+Message-ID: <4141CB08.1030106@mail15.com>
+
+Hello,
+
+here are the messages for the new "user profile" application that lets 
+users change their name, mail, and language :
+
+---------------
+tooltip = Change your personnal informations
+category = Preferences
+title = User Profile
+
+btn.change = Change
+
+lbl.realName = Real Name
+lbl.mailAddress = Mail Address
+lbl.language = Language
+
+err.unableToFetchUserProfile = Unable to fetch your profile !
+err.unableToChangeProfile = Unable to change your profile !
+
+lang.en = English
+lang.fr = French
+lang.de = German
+lang.nl = Dutch
+lang.pl = Polish
+lang.es = Spanish
+---------------
+
+Thanks !
+Vincent.
+
+
+From carsten.schaefer at ttc-informatik.de  Fri Sep 10 18:07:58 2004
+From: carsten.schaefer at ttc-informatik.de (=?iso-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Fri, 10 Sep 2004 18:07:58 +0200
+Subject: [Lucane-translations] new app: userprofile
+References: <4141CB08.1030106@mail15.com>
+Message-ID: <000701c49750$573dc3e0$0b00a8c0@zander>
+
+german translation:
+
+
+tooltip =?ndern Sie Ihre pers?nlichen Einstellungen
+category = Einstellungen
+title = Benutzer Profil
+
+btn.change = ?ndern
+
+lbl.realName = Name
+lbl.mailAddress = EMail-Addresse
+lbl.language = Sprache
+
+err.unableToFetchUserProfile = Fehler beim Holen des Benutzer Profils !
+err.unableToChangeProfile = Fehler beim ?ndern des Profils !
+
+lang.en = Englisch
+lang.fr = Franz?sisch
+lang.de = Deutsch
+lang.nl = H?ll?ndisch
+lang.pl = Polnisch
+lang.es = Spanisch
+
+  ----- Original Message ----- 
+  From: Vincent Fiack 
+  To: lucane-translations at lists.berlios.de 
+  Sent: Friday, September 10, 2004 5:40 PM
+  Subject: [Lucane-translations] new app: userprofile
+
+
+  Hello,
+
+  here are the messages for the new "user profile" application that lets 
+  users change their name, mail, and language :
+
+  ---------------
+  tooltip = Change your personnal informations
+  category = Preferences
+  title = User Profile
+
+  btn.change = Change
+
+  lbl.realName = Real Name
+  lbl.mailAddress = Mail Address
+  lbl.language = Language
+
+  err.unableToFetchUserProfile = Unable to fetch your profile !
+  err.unableToChangeProfile = Unable to change your profile !
+
+  lang.en = English
+  lang.fr = French
+  lang.de = German
+  lang.nl = Dutch
+  lang.pl = Polish
+  lang.es = Spanish
+  ---------------
+
+  Thanks !
+  Vincent.
+  _______________________________________________
+  Lucane-translations mailing list
+  Lucane-translations at lists.berlios.de
+  http://lists.berlios.de/mailman/listinfo/lucane-translations
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040910/9197e38d/attachment.html>
+
+From vfiack at mail15.com  Mon Sep 13 18:37:11 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Mon, 13 Sep 2004 18:37:11 +0200
+Subject: [Lucane-translations] whiteboard: undo & redo
+Message-ID: <4145CCB7.1020901@mail15.com>
+
+Hello,
+
+I forgot these tooltips :
+
+tip.undo = Undo
+tip.redo = Redo
+
+Thanks a lot !
+Vincent.
+
+
+From vfiack at mail15.com  Tue Sep 14 19:32:48 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Tue, 14 Sep 2004 19:32:48 +0200
+Subject: [Lucane-translations] acl in todolists
+Message-ID: <41472B40.2040207@mail15.com>
+
+Hello,
+
+I've implemented a way to share your todolists, using our ACL system.
+I took the message that you already translated for forumadmin, and I 
+only need this tooltip :
+
+MainInterface.editAcl=Access Control
+
+Thanks,
+Vincent.
+
+
+From carsten.schaefer at ttc-informatik.de  Wed Sep 15 10:42:37 2004
+From: carsten.schaefer at ttc-informatik.de (=?iso-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Wed, 15 Sep 2004 10:42:37 +0200
+Subject: [Lucane-translations] whiteboard: undo & redo
+References: <4145CCB7.1020901@mail15.com>
+Message-ID: <001b01c49aff$f5422fb0$0b00a8c0@zander>
+
+German:
+tip.undo = R?ckg?ngig
+tip.redo = Wiederherstellen
+
+
+Vincent Fiack wrote:
+> Hello,
+>
+> I forgot these tooltips :
+>
+> tip.undo = Undo
+> tip.redo = Redo
+>
+
+
+
+From carsten.schaefer at ttc-informatik.de  Wed Sep 15 10:43:46 2004
+From: carsten.schaefer at ttc-informatik.de (=?iso-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Wed, 15 Sep 2004 10:43:46 +0200
+Subject: [Lucane-translations] acl in todolists
+References: <41472B40.2040207@mail15.com>
+Message-ID: <001e01c49b00$1d792380$0b00a8c0@zander>
+
+german :
+MainInterface.editAcl=Zugangsberechtigungen bearbeiten
+
+
+Vincent Fiack wrote:
+> Hello,
+> 
+> I've implemented a way to share your todolists, using our ACL system.
+> I took the message that you already translated for forumadmin, and I
+> only need this tooltip :
+> 
+> MainInterface.editAcl=Access Control
+> 
+
+
+
+From vfiack at mail15.com  Sat Sep 18 16:56:08 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sat, 18 Sep 2004 16:56:08 +0200
+Subject: [Lucane-translations] spell checker
+Message-ID: <414C4C88.4060503@mail15.com>
+
+Hello,
+
+we changed the spell checker to use external dictionnaries, so we need 
+this message if the file can't be found :
+
+err.noDictionaryFound = The english dictionary is not available.
+
+(change english to your language !)
+
+Thanks,
+Vincent.
+
+
+From carsten.schaefer at ttc-informatik.de  Sun Sep 19 10:41:41 2004
+From: carsten.schaefer at ttc-informatik.de (=?iso-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Sun, 19 Sep 2004 10:41:41 +0200
+Subject: [Lucane-translations] spell checker
+References: <414C4C88.4060503@mail15.com>
+Message-ID: <000f01c49e24$7d1f48b0$0200a8c0@zander>
+
+german:
+
+err.noDictionaryFound = Es ist kein deutsches W?rterbuch installiert.
+
+
+Vincent Fiack wrote:
+> Hello,
+>
+> we changed the spell checker to use external dictionnaries, so we need
+> this message if the file can't be found :
+>
+> err.noDictionaryFound = The english dictionary is not available.
+>
+> (change english to your language !)
+>
+> Thanks,
+> Vincent.
+> _______________________________________________
+> Lucane-translations mailing list
+> Lucane-translations at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/lucane-translations 
+
+
+
+
+From egeltje at mail.com  Sun Sep 19 14:31:20 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Sun, 19 Sep 2004 07:31:20 -0500
+Subject: [Lucane-translations] new app: userprofile
+Message-ID: <20040919123120.0C4CD164005@ws1-4.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040919/18b6db26/attachment.html>
+
+From egeltje at mail.com  Sun Sep 19 14:36:07 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Sun, 19 Sep 2004 07:36:07 -0500
+Subject: [Lucane-translations] whiteboard: undo & redo
+Message-ID: <20040919123607.2B59C164005@ws1-4.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040919/a9d7d507/attachment.html>
+
+From egeltje at mail.com  Sun Sep 19 14:37:03 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Sun, 19 Sep 2004 07:37:03 -0500
+Subject: [Lucane-translations] acl in todolists
+Message-ID: <20040919123703.1A528164005@ws1-4.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040919/98ee2b2a/attachment.html>
+
+From egeltje at mail.com  Sun Sep 19 14:38:12 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Sun, 19 Sep 2004 07:38:12 -0500
+Subject: [Lucane-translations] spell checker
+Message-ID: <20040919123812.B0D25164005@ws1-4.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040919/6af240a9/attachment.html>
+
+From vfiack at mail15.com  Sun Sep 19 15:46:29 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sun, 19 Sep 2004 15:46:29 +0200
+Subject: [Lucane-translations] whiteboard: undo & redo
+In-Reply-To: <20040919123607.2B59C164005@ws1-4.us4.outblaze.com>
+References: <20040919123607.2B59C164005@ws1-4.us4.outblaze.com>
+Message-ID: <414D8DB5.3070301@mail15.com>
+
+Theo Beers wrote:
+
+> ##Dutch translation## You forgot the tip.delete. Here it is!
+>
+Thanks !
+
+
+From vfiack at mail15.com  Sat Sep 25 10:18:39 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sat, 25 Sep 2004 10:18:39 +0200
+Subject: [Lucane-translations] Lucane Groupware 0.7.3 is available
+Message-ID: <415529DF.1030900@mail15.com>
+
+Hello,
+
+I'm happy to announce that Lucane 0.7.3 has been released today.
+
+The main changes are the addition of a whiteboard application, a lot of 
+calendar improvements (including mail), shared todolists, ssl, a better 
+htmleditor, ...
+
+You can read a list of change (including screenshots) here :
+http://lucane.org/groupware/documentation/whatsnew/0.7.3/
+
+Have fun,
+Vincent.
+
+
+
+From egeltje at mail.com  Sun Sep 26 12:48:54 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Sun, 26 Sep 2004 05:48:54 -0500
+Subject: [Lucane-translations] Lucane Groupware 0.7.3 is available
+Message-ID: <20040926104854.EC7541F50B1@ws1-2.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040926/b8b5eb27/attachment.html>
+
+From vfiack at mail15.com  Mon Sep 27 09:19:57 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Mon, 27 Sep 2004 11:19:57 +0400 (MSD)
+Subject: [Lucane-translations] Lucane Groupware 0.7.3 is available
+Message-ID: <200409270719.i8R7Jv9B037666@www4.pochta.ru>
+
+ Theo Beers <egeltje at mail.com>:
+
+> You didn\'t include the User Profile dutch translation
+in this version...
+Ooooops, big mistake ! Sorry...
+I\'ll put a new jar for this application on the download
+page (this evening i hope).
+
+
+From vfiack at mail15.com  Mon Sep 27 19:44:06 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Mon, 27 Sep 2004 19:44:06 +0200
+Subject: [Lucane-translations] Lucane Groupware 0.7.3 is available
+In-Reply-To: <20040926104854.EC7541F50B1@ws1-2.us4.outblaze.com>
+References: <20040926104854.EC7541F50B1@ws1-2.us4.outblaze.com>
+Message-ID: <41585166.7080203@mail15.com>
+
+Theo Beers wrote:
+
+> You didn't include the User Profile dutch translation in this 
+> version... :(
+
+Done, you can get the corrected application here :
+http://lucane.org/groupware/download/bugfix/org.lucane.applications.userprofile.jar
+
+Sorry for the inconvenience,
+Vincent.
+
+

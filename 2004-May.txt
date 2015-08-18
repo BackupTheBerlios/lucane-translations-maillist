@@ -1,0 +1,356 @@
+From vfiack at mail15.com  Mon May  3 16:30:41 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Mon, 03 May 2004 16:30:41 +0200
+Subject: [Lucane-translations] Yes/No in dialog boxes
+Message-ID: <40965791.6070405@mail15.com>
+
+I finally modified the dialog boxes.
+
+here are the keys :
+
+yes = Yes
+no = No
+
+That's an easy one ;)
+
+Thanks a lot,
+Vincent.
+
+
+From egeltje at mail.com  Mon May  3 19:13:03 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Mon, 03 May 2004 12:13:03 -0500
+Subject: [Lucane-translations] Yes/No in dialog boxes
+Message-ID: <20040503171303.1844B16402D@ws1-15.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040503/3f598fb8/attachment.html>
+
+From vfiack at mail15.com  Sat May  8 17:31:51 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sat, 08 May 2004 17:31:51 +0200
+Subject: [Lucane-translations] calendar : week view
+Message-ID: <409CFD67.4090308@mail15.com>
+
+Here is the key for the button activating the week view
+
+btn.thisWeek = This week
+
+Thanks,
+Vincent.
+
+
+From egeltje at mail.com  Sun May  9 13:19:21 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Sun, 09 May 2004 06:19:21 -0500
+Subject: [Lucane-translations] calendar : week view
+Message-ID: <20040509111921.8E4E916402D@ws1-15.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040509/463d0d97/attachment.html>
+
+From vfiack at mail15.com  Tue May 18 15:04:29 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Tue, 18 May 2004 17:04:29 +0400 (MSD)
+Subject: [Lucane-translations] FileChooser
+Message-ID: <200405181304.i4ID4TR4080847@www5.hotbox.ru>
+
+I finally found a way to translate the default messages
+for the FileChooser.
+Here are the messages :
+
+FileChooser.acceptAllFileFilterText = All Files (*.*)
+FileChooser.cancelButtonText = Cancel
+FileChooser.cancelButtonToolTipText = Abort file
+chooser dialog
+FileChooser.detailsViewButtonToolTipText = Details
+FileChooser.directoryDescriptionText = Directory
+FileChooser.fileDescriptionText = Generic File
+FileChooser.fileNameLabelText = File name:
+FileChooser.filesOfTypeLabelText = Files of type:
+FileChooser.helpButtonText = Help
+FileChooser.helpButtonToolTipText = FileChooser help
+FileChooser.homeFolderToolTipText = Home
+FileChooser.listViewButtonToolTipText = List
+FileChooser.lookInLabelText = Look in:
+FileChooser.newFolderErrorText = Error creating new folder
+FileChooser.newFolderToolTipText = Create New Folder
+FileChooser.openButtonText = Open
+FileChooser.openButtonToolTipText = Open selected file
+FileChooser.saveButtonText = Save
+FileChooser.saveButtonToolTipText = Save selected file
+FileChooser.updateButtonText = Update
+FileChooser.updateButtonToolTipText = Update directory
+listing
+FileChooser.upFolderToolTipText = Up One Level
+
+Have a nice day,
+Vincent.
+
+
+From egeltje at mail.com  Tue May 18 18:12:14 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Tue, 18 May 2004 11:12:14 -0500
+Subject: [Lucane-translations] FileChooser
+Message-ID: <20040518161214.3FEBA1F4FEA@ws1-12.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040518/0897d2be/attachment.html>
+
+From egeltje at mail.com  Tue May 18 19:17:55 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Tue, 18 May 2004 12:17:55 -0500
+Subject: [Lucane-translations] FileChooser
+Message-ID: <20040518171755.38DF622EF7@ws1-1.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040518/c808c0e5/attachment.html>
+
+From bmathus at free.fr  Wed May 19 19:47:08 2004
+From: bmathus at free.fr (Baptiste Mathus)
+Date: Wed, 19 May 2004 19:47:08 +0200
+Subject: [Lucane-translations] FileChooser
+In-Reply-To: <200405181304.i4ID4TR4080847@www5.hotbox.ru>
+References: <200405181304.i4ID4TR4080847@www5.hotbox.ru>
+Message-ID: <40AB9D9C.4090100@free.fr>
+
+In case you've done it yet, Vincent. Here is the french translation.
+If not, I think you should have a look at it to see if you agree with the words.
+
+Baptiste
+
+Vincent Fiack wrote:
+> I finally found a way to translate the default messages
+> for the FileChooser.
+> Here are the messages :
+> 
+> FileChooser.acceptAllFileFilterText = Tous les fichiers (*.*)
+> FileChooser.cancelButtonText = Annuler
+> FileChooser.cancelButtonToolTipText = Fermer le dialogue de se'lection de fichier
+> FileChooser.detailsViewButtonToolTipText = De'tails
+> FileChooser.directoryDescriptionText = Re'pertoire
+> FileChooser.fileDescriptionText = Fichier ge'ne'rique
+> FileChooser.fileNameLabelText = Nom du fichier:
+> FileChooser.filesOfTypeLabelText = Fichiers du type:
+> FileChooser.helpButtonText = Aide
+> FileChooser.helpButtonToolTipText = Aide Se'lecteur de fichier
+> FileChooser.homeFolderToolTipText = Re'pertoire personnel
+> FileChooser.listViewButtonToolTipText = Liste
+> FileChooser.lookInLabelText = Regardez dans:
+> FileChooser.newFolderErrorText = Erreur a` la cre'ation du nouveau re'pertoire
+> FileChooser.newFolderToolTipText = Cre'er un nouveau re'pertoire
+> FileChooser.openButtonText = Ouvrir
+> FileChooser.openButtonToolTipText = Ouvrir le fichier se'lectionne'
+> FileChooser.saveButtonText = Sauver
+> FileChooser.saveButtonToolTipText = Sauver le fichier se'lectionne'
+> FileChooser.updateButtonText = Rafrai^chir
+> FileChooser.updateButtonToolTipText = Rafrai^chir l'affichage du re'pertoire
+> FileChooser.upFolderToolTipText = Monter d'un niveau
+> 
+> Have a nice day,
+> Vincent.
+> _______________________________________________
+> Lucane-translations mailing list
+> Lucane-translations at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/lucane-translations
+> 
+> 
+
+-- 
+Baptiste <Batmat> Mathus
+Baptiste at Mathus point org
+http://www.batmat.net
+OpenPGP : 0xE8EC628F
+---------
+You want to use GNU/Linux or Windows ?
+You want to spend time or money ?
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 256 bytes
+Desc: OpenPGP digital signature
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040519/e17baba0/attachment.pgp>
+
+From vfiack at mail15.com  Sun May 23 15:28:32 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sun, 23 May 2004 15:28:32 +0200
+Subject: [Lucane-translations] group combo in main interface
+Message-ID: <40B0A700.6010307@mail15.com>
+
+Here are the messages :
+
+err.unableToFetchGroups = Unable to fetch your groups !
+err.unableToFetchUsersForGroup = Unable to fetch connected users for 
+this group !
+
+Thank you !
+
+
+From egeltje at mail.com  Sun May 23 22:06:14 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Sun, 23 May 2004 15:06:14 -0500
+Subject: [Lucane-translations] group combo in main interface
+Message-ID: <20040523200614.8C9F24BDA3@ws1-1.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040523/9128733b/attachment.html>
+
+From vfiack at mail15.com  Mon May 24 16:43:31 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Mon, 24 May 2004 16:43:31 +0200
+Subject: [Lucane-translations] new app: calendarprefs
+Message-ID: <40B20A13.7080401@mail15.com>
+
+Hello,
+
+here are the messages for the calendar preferences applications.
+----
+
+tooltip = Customize your calendar
+category = Preferences
+title = Calendar
+                                                                               
+ 
+lbl.workStart = Work start :
+lbl.workEnd = Work end :
+lbl.workedColor = Worked color :
+lbl.unworkedColor = Unworked color :
+                                                                               
+ 
+selectWorkedColor = Select worked color
+selectUnworkedColor = Select unworked color
+                                                                               
+ 
+btn.ok = Ok
+btn.cancel = Cancel
+                                                                               
+ 
+err.savePrefs = Error while saving your preferences, sorry !
+----
+
+Thanks a lot,
+Vincent.
+
+
+From egeltje at mail.com  Mon May 24 22:43:42 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Mon, 24 May 2004 15:43:42 -0500
+Subject: [Lucane-translations] new app: calendarprefs
+Message-ID: <20040524204342.15BFC1F4FEA@ws1-12.us4.outblaze.com>
+
+tooltip = Stel uw kalender in
+category = Instellingen
+title = Kalender
+                                                                               
+ 
+lbl.workStart = Werk start:
+lbl.workEnd = Werk stop:
+lbl.workedColor = Werk kleur:
+lbl.unworkedColor = Andere kleur:
+                                                                               
+ 
+selectWorkedColor = Selecteer werk kleur
+selectUnworkedColor = Selecteer andere kleur
+                                                                               
+ 
+btn.ok = Ok
+btn.cancel = Annuleren
+                                                                               
+ 
+err.savePrefs = Fout bij het opslaan van uw instellingen, sorry!
+-- 
+___________________________________________________________
+Sign-up for Ads Free at Mail.com
+http://promo.mail.com/adsfreejump.htm
+
+
+
+From vincent.fiack at laposte.net  Wed May 26 17:09:11 2004
+From: vincent.fiack at laposte.net (Vincent Fiack)
+Date: Wed, 26 May 2004 17:09:11 +0200
+Subject: [Lucane-translations] calendarprefs
+Message-ID: <40B4B317.7020404@laposte.net>
+
+monday = Monday
+sunday = Sunday
+
+lbl.firstDayOfWeek = First day of week :
+
+
+From vincent.fiack at laposte.net  Wed May 26 17:10:26 2004
+From: vincent.fiack at laposte.net (Vincent Fiack)
+Date: Wed, 26 May 2004 17:10:26 +0200
+Subject: [Lucane-translations] passwdchanger
+Message-ID: <40B4B362.4010403@laposte.net>
+
+nullpasswd = You must set a password !
+
+
+From egeltje at mail.com  Wed May 26 21:05:16 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 26 May 2004 14:05:16 -0500
+Subject: [Lucane-translations] passwdchanger
+Message-ID: <20040526190516.48DC84BDA3@ws1-1.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040526/27dcdf26/attachment.html>
+
+From egeltje at mail.com  Wed May 26 21:06:30 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Wed, 26 May 2004 14:06:30 -0500
+Subject: [Lucane-translations] calendarprefs
+Message-ID: <20040526190630.C79804BDA3@ws1-1.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040526/350f76e5/attachment.html>
+
+From vfiack at mail15.com  Sat May 29 13:28:58 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sat, 29 May 2004 13:28:58 +0200
+Subject: [Lucane-translations] new app: rss reader
+Message-ID: <40B873FA.1080409@mail15.com>
+
+Hello everyone,
+here are the message for the new rss reader :
+
+
+tooltip = Read RSS streams
+category = Misc
+title = RSS Reader
+
+err.connection = Connection error !
+err.addChannel = Failed to add channel :
+err.removeChannel = Failed to remove channel :
+err.listChannels = Failed to list your channels :
+
+# channel dialog
+addChannel = Add a channel :
+btn.add = Add
+btn.cancel = Cancel
+lbl.channelName = Channel name :
+lbl.channelUrl = Channel url :
+
+# main frame
+btn.refresh = Refresh this channel
+btn.addChannel = Add a channel
+btn.removeChannel = Remove the selected channel
+msg.removeChannel = Do you really want to remove this channel ?
+err.wrongUrl = Wrong channel URL :
+err.rssError = RSS Error :
+
+
+Thanks and have a nice week end,
+Vincent.
+
+
+From egeltje at mail.com  Sat May 29 14:56:59 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Sat, 29 May 2004 07:56:59 -0500
+Subject: [Lucane-translations] new app: rss reader
+Message-ID: <20040529125659.090A54BDA3@ws1-1.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040529/179ee4a1/attachment.html>
+

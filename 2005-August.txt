@@ -1,0 +1,44 @@
+From afett at click21.com.br  Fri Aug 12 19:29:30 2005
+From: afett at click21.com.br (Andre Fettermann)
+Date: Fri, 12 Aug 2005 14:29:30 -0300
+Subject: [Lucane-translations] Brazilian Portuguese Translation
+Message-ID: <1123867770.42fcdc7ab8529@webmail4.click21.com.br>
+
+Hello all!
+
+I have just finished to translate the messages in Brazilian Portuguese. How do i
+send it to be part of Lucane? I tried to re-build it with maven but it didn't
+work(it tried to download some stuff and my proxy server blocked it).
+
+Andr? Fettermann de Andrade
+
+
+___________________________________________________________________________________
+Navegue e Ganhe vale-presentes no Submarino. 
+Inscreva-se agora na promo??o Mergulhou Ganhou!
+www.click21.com.br/mergulhouganhou
+
+
+
+From vfiack at gmail.com  Tue Aug 16 16:22:40 2005
+From: vfiack at gmail.com (Vincent Fiack)
+Date: Tue, 16 Aug 2005 16:22:40 +0200
+Subject: [Lucane-translations] Brazilian Portuguese Translation
+In-Reply-To: <1123867770.42fcdc7ab8529@webmail4.click21.com.br>
+References: <1123867770.42fcdc7ab8529@webmail4.click21.com.br>
+Message-ID: <b8c61c21050816072232743934@mail.gmail.com>
+
+Hello,
+
+> I have just finished to translate the messages in Brazilian Portuguese. How do i
+> send it to be part of Lucane? I tried to re-build it with maven but it didn't
+> work(it tried to download some stuff and my proxy server blocked it).
+
+You can send it to me.
+If you need to, you can download the dependencies here :
+http://lucane.org/maven/
+
+Thanks,
+Vincent.
+
+

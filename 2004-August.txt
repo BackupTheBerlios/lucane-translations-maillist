@@ -1,0 +1,306 @@
+From vfiack at mail15.com  Sun Aug  1 12:09:10 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sun, 01 Aug 2004 12:09:10 +0200
+Subject: [Lucane-translations] SendFile update
+Message-ID: <410CC146.7080805@mail15.com>
+
+Hello,
+
+I've added a way to open files directly from sendfile, so here are the 
+new messages :
+
+btn.save = Save
+btn.open = Open...
+
+msg.selectCommandFor = Select the program for %1 files...
+msg.saveInsteadOfOpen = Do you want to save the file ?
+err.commandFailed = The command '%1' failed !
+
+Thanks a lot !
+Vincent.
+
+
+From thorsten.traegenap at ttc-informatik.de  Sun Aug  1 14:21:46 2004
+From: thorsten.traegenap at ttc-informatik.de (=?iso-8859-1?Q?Thorsten_Tr=E4genap?=)
+Date: Sun, 1 Aug 2004 14:21:46 +0200
+Subject: [Lucane-translations] Translation into german language
+Message-ID: <002b01c477c2$1d90dbd0$0700a8c0@MATJES>
+
+Hello everybody,
+
+i am interested in translation lucane into german language. Is anybody else at the present
+on german- translation ?
+
+best regards
+Thorsten
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040801/0ee6cf83/attachment.html>
+
+From vfiack at mail15.com  Sun Aug  1 14:24:41 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sun, 01 Aug 2004 14:24:41 +0200
+Subject: [Lucane-translations] rss reader
+Message-ID: <410CE109.7080509@mail15.com>
+
+A button has been added in rssreader to show the help file :
+
+btn.help = Show help
+
+
+From egeltje at mail.com  Sun Aug  1 15:27:27 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Sun, 01 Aug 2004 08:27:27 -0500
+Subject: [Lucane-translations] SendFile update
+Message-ID: <20040801132727.2B6951F50B1@ws1-2.us4.outblaze.com>
+
+#Sendfile#
+
+btn.save = Opslaan
+btn.open = Open...
+
+msg.selectCommandFor = Selecteer programma voor %1 bestanden...
+msg.saveInsteadOfOpen = Wilt u het bestand opslaan?
+err.commandFailed = Het commando '%1' is mislukt!
+-- 
+___________________________________________________________
+Sign-up for Ads Free at Mail.com
+http://promo.mail.com/adsfreejump.htm
+
+
+
+From egeltje at mail.com  Sun Aug  1 15:28:59 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Sun, 01 Aug 2004 08:28:59 -0500
+Subject: [Lucane-translations] rss reader
+Message-ID: <20040801132859.1B92A1F50B1@ws1-2.us4.outblaze.com>
+
+#RSS Reader Help File#
+
+btn.help = Laat Help zien
+
+
+-- 
+___________________________________________________________
+Sign-up for Ads Free at Mail.com
+http://promo.mail.com/adsfreejump.htm
+
+
+
+From vfiack at mail15.com  Sun Aug  1 16:14:20 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sun, 01 Aug 2004 16:14:20 +0200
+Subject: [Lucane-translations] Translation into german language
+In-Reply-To: <002b01c477c2$1d90dbd0$0700a8c0@MATJES>
+References: <002b01c477c2$1d90dbd0$0700a8c0@MATJES>
+Message-ID: <410CFABC.6090406@mail15.com>
+
+Hello,
+
+> i am interested in translation lucane into german language. Is anybody 
+> else at the present
+> on german- translation ?
+
+Nice !
+As far as i know, nobody is working on it yet.
+
+Have a nice day,
+Vincent.
+
+
+
+From vfiack at mail15.com  Sun Aug 15 18:34:38 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sun, 15 Aug 2004 18:34:38 +0200
+Subject: [Lucane-translations] Client (SSL)
+Message-ID: <411F909E.9080709@mail15.com>
+
+Hello,
+
+Here is a message i had to add :
+
+msg.generatingKeyPair = Generating key pair
+
+It's displayed in the login box when the client is generating a key pair 
+to cipher network communications with SSL.
+
+Thanks,
+Vincent.
+
+
+From egeltje at mail.com  Wed Aug 18 17:32:47 2004
+From: egeltje at mail.com (egeltje at mail.com)
+Date: Wed, 18 Aug 2004 10:32:47 -0500
+Subject: [Lucane-translations] Client (SSL)
+Message-ID: <20040818153247.282004BDA8@ws1-1.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040818/f7562cbf/attachment.html>
+
+From vfiack at mail15.com  Thu Aug 26 18:15:54 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Thu, 26 Aug 2004 18:15:54 +0200
+Subject: [Lucane-translations] new app: whiteboard
+Message-ID: <412E0CBA.6070401@mail15.com>
+
+Hello,
+
+The white board is now more than usable, so the messages won't change 
+much...
+Here they are :
+
+-----------------------------------------------------------------------
+tooltip = Collaborative drawing
+icon = icon.png
+category = Misc
+title = White Board
+
+# graph/shapes/Image
+filter.imageFiles = Image Files (png, gif, jpeg)
+
+# graph/shapes/Text
+msg.enterYourTextHere = Enter your text here
+
+# gui/ActionToolBar
+tip.openFile = Open File...
+err.unableToOpenFile = Unable to open file :
+tip.saveFile = Save File...
+err.unableToSaveFile = Unable to save file :
+tip.exportPng = Export as PNG...
+tip.editText = Edit text
+tip.bringToFront = Bring to front
+tip.bringToBack = Bring to back
+tip.groupCells = Group cells
+tip.ungroupCells = Ungroup cells
+tip.zoomIn = Zoom In
+tip.zoomOut = Zoom Out
+tip.zoomDefault = Zoom 1:1
+
+# gui/ColorButton
+tip.chooseColors = Choose colors
+
+# gui/InviteAction
+lbl.invite = Invite...
+tip.invite = Invite connected users
+msg.selectUsers = Select users to invite :
+
+# gui/LinePatternButton
+tip.linePattern = Line style
+
+# gui/LineWidthButton
+tip.lineWidth = Line width
+
+# gui/ShapeToolBar
+tip.select = Select
+tip.rectangle = Rectangle
+tip.roundRectangle = Round Rectangle
+tip.diamond = Diamond
+tip.ellipse = Ellipse
+tip.line = Line
+tip.simpleArrow = Simple Arrow
+tip.doubleArrow = Double Arrow
+tip.text = Text area
+tip.image = External Image
+
+# listeners/GraphWindowListener
+err.unableToLeaveBoard = Unable to leave board correctly :
+
+# listeners/PenActionListener
+err.unableToChangeState = Unable to change state :
+
+# GraphGui
+msg.serverExited = Server exited !
+
+# WhiteBoard
+err.unableToStartServer = Unable to start server :
+err.unableToStartClient = Unable to start client :
+msg.joinBoardSession = [%1] Would you like to join a board session ?
+
+# common
+err.unableToBroadcastOperation = Unable to broadcast operation :
+
+-----------------------------------------------------------------------
+
+If you have a question about a message, feel free to ask !
+Thanks a lot,
+Vincent.
+
+
+From vfiack at mail15.com  Thu Aug 26 19:01:03 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Thu, 26 Aug 2004 19:01:03 +0200
+Subject: [Lucane-translations] user profiles
+Message-ID: <412E174F.7030700@mail15.com>
+
+Hello again,
+
+we added mail & name to the user profile, so here are the two labels 
+used in the admin app :
+
+user.realName = Real name
+user.mailAddress = Mail address
+
+Thanks !
+Vincent.
+
+
+From egeltje at mail.com  Thu Aug 26 20:21:15 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Thu, 26 Aug 2004 13:21:15 -0500
+Subject: [Lucane-translations] new app: whiteboard
+Message-ID: <20040826182115.CC2A0164002@ws1-4.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20040826/d77728bb/attachment.html>
+
+From vfiack at mail15.com  Fri Aug 27 17:32:41 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Fri, 27 Aug 2004 17:32:41 +0200
+Subject: [Lucane-translations] calendar: annual recurrence
+Message-ID: <412F5419.2050304@mail15.com>
+
+Hello,
+
+Here is a new message for the calendar app :
+
+recur.year = Every year
+
+Thanks,
+Vincent.
+
+
+From vfiack at mail15.com  Tue Aug 31 23:24:52 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Tue, 31 Aug 2004 23:24:52 +0200
+Subject: [Lucane-translations] htmleditor & spellchecker
+Message-ID: <4134ECA4.5020705@mail15.com>
+
+Hello,
+
+we forgot these messages a few weeks ago :
+
+toolbar.insertTable = Insert table
+toolbar.insertCellRight = Insert cell right
+toolbar.insertCellDown = Insert cell down
+toolbar.spellCheck = Spell check
+
+# jazzy spell checker
+jazzy.title=Spelling
+jazzy.IGNORE=Ignore
+jazzy.IGNOREALL=Ignore All
+jazzy.ADD=Add to Dictionary
+jazzy.REPLACE=Change
+jazzy.REPLACEALL=Change All
+jazzy.CANCEL=Cancel
+jazzy.SUGGESTIONS=Suggestions
+jazzy.INVALIDWORD=Not in Dictionary
+jazzy.COMPLETED=Spellcheck completed.
+jazzy.ADDWORD_1=Add
+jazzy.ADDWORD_2=to dictionary?
+jazzy.ADDWORD_3=Add Word?
+
+That's it !
+Have a nice day,
+Vincent.
+
+

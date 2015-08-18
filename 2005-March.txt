@@ -1,0 +1,19 @@
+From vfiack at mail15.com  Tue Mar  1 20:47:45 2005
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Tue, 01 Mar 2005 20:47:45 +0100
+Subject: [Lucane-translations] Lucane 0.7.5-beta is available
+Message-ID: <4224C6E1.2030208@mail15.com>
+
+Hello,
+
+Lucane 0.7.5-beta has finally been released.
+The major addition is the new sharedfolder application, with file 
+history, access rights, ..., available in web & desktop application.
+
+You can read a full list of changes with screenshots here :
+http://lucane.org/EN/documentation/whatsnew/0.7.5-beta/
+
+As usual, many thanks to everyone involved !
+Vincent.
+
+

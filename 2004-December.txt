@@ -1,0 +1,69 @@
+From vfiack at gmail.com  Wed Dec  1 22:25:55 2004
+From: vfiack at gmail.com (Vincent Fiack)
+Date: Wed, 1 Dec 2004 22:25:55 +0100
+Subject: [Lucane-translations] Lucane 0.7.4-beta2 has been released
+Message-ID: <b8c61c210412011325dba43cc@mail.gmail.com>
+
+Hello,
+
+As we made a lot of changes since 0.7.4-beta, we can't publish a
+stable release yet.
+
+Most of the changes are for WebConnector. A lot of applications now
+have a web interface : User Profile, Notes, Password Changer,
+RssReader, Calendar, and Todolist. Forum and forum admin were already
+available in 0.7.4-beta.
+
+A few bugs were fixed, especially the one preventing SSL to work.
+
+Have fun,
+Vincent.
+
+
+From vfiack at mail15.com  Tue Dec 21 20:04:59 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Tue, 21 Dec 2004 20:04:59 +0100
+Subject: [Lucane-translations] Lucane groupware 0.7.4 has been published
+Message-ID: <41C873DB.4040808@mail15.com>
+
+Hello,
+
+I'm proud to announce Lucane 0.7.4 !
+Don't be fooled by the version number, this is actually a major release.
+
+The main new thing is WebConnector, a component allowing you to access 
+to Lucane's application through the web.
+Other applications have evolved : calendar, todolist, forum, ...
+A new Slideshow application has been added.
+
+Please read the changes (including screenshots) here :
+http://lucane.org/EN/documentation/whatsnew/0.7.4/
+
+Thanks to everyone invovled,
+Vincent.
+
+
+From vfiack at gmail.com  Tue Dec 28 20:59:14 2004
+From: vfiack at gmail.com (Vincent Fiack)
+Date: Tue, 28 Dec 2004 20:59:14 +0100
+Subject: [Lucane-translations] webadmin: http & https
+Message-ID: <b8c61c2104122811594487be5d@mail.gmail.com>
+
+Hello,
+
+I added ssl to webconnector, so i needed to add a few options in
+webadmin, and rename the existing ones to avoid any confusion.
+
+Here are the new/changed messages :
+
+lbl.http.enabled = Enable HTTP
+lbl.http.port = HTTP Port
+lbl.https.enabled = Enable HTTPS (SSL)
+lbl.https.port = HTTPS Port
+lbl.https.keystorePasswd = Keystore Password
+lbl.https.keyPasswd = Key Password
+
+Thanks !
+Vincent.
+
+

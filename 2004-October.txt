@@ -1,0 +1,289 @@
+From vfiack at mail15.com  Fri Oct  1 21:46:19 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Fri, 01 Oct 2004 21:46:19 +0200
+Subject: [Lucane-translations] calendar: default event types
+Message-ID: <415DB40B.7080807@mail15.com>
+
+Hello,
+
+I've added translation support for event types in calendar, so that 
+Lucane can ship with predefined types.
+Here they are :
+
+# event types
+type.default = Default
+type.meeting = Meeting
+type.presentation = Presentation
+type.training = Training
+type.vacation = Vacation
+
+Thanks a lot guys,
+Vincent.
+
+
+From vfiack at mail15.com  Sat Oct  2 16:18:24 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sat, 02 Oct 2004 16:18:24 +0200
+Subject: [Lucane-translations] new app: slideshow
+Message-ID: <415EB8B0.5080806@mail15.com>
+
+Hello,
+
+Lucane has a new application, a real-time slideshow.
+The organizer select a folder containing images, and the viewer can see 
+the displayed image.
+
+Here are the messages for translation :
+
+category = Misc
+title = SlideShow
+tooltip = Show your slides
+
+lbl.images = Images (png, gif, jpg)
+msg.followSlideShow = %1 has started a slideshow. Do you want to join ?
+msg.slideServerDisconnected = The slideshow has been closed.
+msg.broadcastingImage = Broadcasting image...
+msg.loadingImages = Loading images...
+
+err.unableToLoadImage = Unable to load image %1 :
+err.unableToAccept = Unable to join slideshow session :
+
+Thanks,
+Vincent.
+
+
+From carsten.schaefer at ttc-informatik.de  Sun Oct  3 10:46:22 2004
+From: carsten.schaefer at ttc-informatik.de (=?iso-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Sun, 3 Oct 2004 10:46:22 +0200
+Subject: [Lucane-translations] calendar: default event types
+References: <415DB40B.7080807@mail15.com>
+Message-ID: <001201c4a925$78af8770$0200a8c0@zander>
+
+german:
+# event types
+type.default = Voreinstellung
+type.meeting = Meeting
+type.presentation = Pr?sentation
+type.training = Schulung
+type.vacation = Urlaub
+
+
+Vincent Fiack wrote:
+> Hello,
+>
+> I've added translation support for event types in calendar, so that
+> Lucane can ship with predefined types.
+> Here they are :
+>
+> # event types
+> type.default = Default
+> type.meeting = Meeting
+> type.presentation = Presentation
+> type.training = Training
+> type.vacation = Vacation
+>
+> Thanks a lot guys,
+> Vincent.
+> _______________________________________________
+> Lucane-translations mailing list
+> Lucane-translations at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/lucane-translations 
+
+
+
+
+From carsten.schaefer at ttc-informatik.de  Sun Oct  3 10:53:15 2004
+From: carsten.schaefer at ttc-informatik.de (=?iso-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Sun, 3 Oct 2004 10:53:15 +0200
+Subject: [Lucane-translations] new app: slideshow
+References: <415EB8B0.5080806@mail15.com>
+Message-ID: <001701c4a926$6e574140$0200a8c0@zander>
+
+german:
+category = Sonstiges
+title = Diashow
+tooltip = Zeigen Sie Ihre Dias
+
+lbl.images = Bilder (png, gif, jpg)
+msg.followSlideShow = %1 hat eine Diashow gestartet. M?chten Sie daran 
+teilnehmen ?
+? msg.slideServerDisconnected = Die Diashow wurde beendet.
+msg.broadcastingImage = ?bertrage Bild...
+msg.loadingImages = Lade Bild...
+
+err.unableToLoadImage = Fehler beim Laden des Bildes %1 :
+err.unableToAccept = Fehler beim Verbinden mit der Diashow :
+
+
+Vincent Fiack wrote:
+> Hello,
+>
+> Lucane has a new application, a real-time slideshow.
+> The organizer select a folder containing images, and the viewer can
+> see the displayed image.
+>
+> Here are the messages for translation :
+>
+> category = Misc
+> title = SlideShow
+> tooltip = Show your slides
+>
+> lbl.images = Images (png, gif, jpg)
+> msg.followSlideShow = %1 has started a slideshow. Do you want to join
+> ? msg.slideServerDisconnected = The slideshow has been closed.
+> msg.broadcastingImage = Broadcasting image...
+> msg.loadingImages = Loading images...
+>
+> err.unableToLoadImage = Unable to load image %1 :
+> err.unableToAccept = Unable to join slideshow session :
+>
+> Thanks,
+> Vincent.
+> _______________________________________________
+> Lucane-translations mailing list
+> Lucane-translations at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/lucane-translations 
+
+
+
+
+From vfiack at mail15.com  Mon Oct 18 21:09:07 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Mon, 18 Oct 2004 21:09:07 +0200
+Subject: [Lucane-translations] calendar: editable events
+Message-ID: <417414D3.2050008@mail15.com>
+
+Hello,
+
+I added a way to allow attendees to change the date of an event if this 
+one is "editable".
+Here is the label needed on the event creation window :
+
+event.editable = Editable
+
+Thanks,
+Vincent.
+
+
+From carsten.schaefer at ttc-informatik.de  Mon Oct 18 21:37:59 2004
+From: carsten.schaefer at ttc-informatik.de (=?iso-8859-1?Q?Carsten_Sch=E4fer?=)
+Date: Mon, 18 Oct 2004 21:37:59 +0200
+Subject: [Lucane-translations] calendar: editable events
+References: <417414D3.2050008@mail15.com>
+Message-ID: <001b01c4b549$fb72c7a0$0200a8c0@zander>
+
+German:
+event.editable = Editierbar
+
+
+Vincent Fiack wrote:
+> Hello,
+> 
+> I added a way to allow attendees to change the date of an event if
+> this one is "editable".
+> Here is the label needed on the event creation window :
+> 
+> event.editable = Editable
+> 
+> Thanks,
+> Vincent.
+> _______________________________________________
+> Lucane-translations mailing list
+> Lucane-translations at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/lucane-translations
+
+
+
+From vfiack at mail15.com  Sun Oct 24 00:54:34 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Sun, 24 Oct 2004 00:54:34 +0200
+Subject: [Lucane-translations] Forum: web application
+Message-ID: <417AE12A.2010801@mail15.com>
+
+Hello,
+
+I've almost finished the web application for the forum.
+Here are the added messages :
+
+# web application
+web.label.newMessage = New message
+web.label.replyToMessage = Reply to message :
+web.label.editingMessage = Editing message :
+web.message.postedBy = Posted by %1 on %2
+web.link.backToMessageList = Back to message list
+web.label.forumList = Available forums :
+web.label.title = Title
+web.label.author = Author
+web.label.date = Date
+web.message.messagePosted = Message posted
+web.message.messageEdited = Message edited
+web.message.messageDeleted = Message deleted
+web.message.messageUndeleted = Message undeleted
+
+---
+For web.message.postedBy = Posted by %1 on %2,
+%1 is the author, %2 is the date.
+
+Thanks and have a nice day,
+Vincent.
+
+
+From vfiack at mail15.com  Mon Oct 25 18:43:49 2004
+From: vfiack at mail15.com (Vincent Fiack)
+Date: Mon, 25 Oct 2004 18:43:49 +0200
+Subject: [Lucane-translations] new app : webadmin
+Message-ID: <417D2D45.2030603@mail15.com>
+
+Hello,
+
+Here are the messages for an application that let admins edit 
+webconnector's configuration :
+
+title = WebConnector
+category = Administration
+tooltip = Edit WebConnector configuration
+
+lbl.realm = Realm
+lbl.port = Port
+lbl.enabled = Enabled
+btn.apply = Apply
+
+err.unableToSaveConfig = Unable to save configuration :
+err.unableToGetConfig = Unable to read configuration :
+
+---
+(If you don't see what realm means in this context, you can replace it 
+with Domain)
+
+Thanks a lot,
+Vincent.
+
+
+From egeltje at mail.com  Fri Oct 29 12:19:58 2004
+From: egeltje at mail.com (Theo Beers)
+Date: Fri, 29 Oct 2004 05:19:58 -0500
+Subject: [Lucane-translations] new app : webadmin
+Message-ID: <20041029101958.CC4416EEF6@ws1-5.us4.outblaze.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-translations/attachments/20041029/e7939ac1/attachment.html>
+
+From vfiack at gmail.com  Fri Oct 29 18:32:14 2004
+From: vfiack at gmail.com (Vincent Fiack)
+Date: Fri, 29 Oct 2004 18:32:14 +0200
+Subject: [Lucane-translations] calendar: look for free time
+Message-ID: <b8c61c210410290932ccacdcf@mail.gmail.com>
+
+Hello,
+
+I've added a little dialog box to compare user calendars when editing an event.
+Here are the needed messages :
+
+btn.findFreeTime = Find free time
+err.unableToGetEventsForUser = Unable to get events for user : 
+dialog.findFreeTime = Find free time
+
+Thanks for your time,
+Vincent.
+
+
